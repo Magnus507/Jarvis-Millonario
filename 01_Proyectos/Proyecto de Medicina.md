@@ -3,12 +3,33 @@ tags:
   - proyecto
   - medicina
 estado: activo
-fecha_creacion: 2026-04-21
+progreso: 20
+ultima_actualizacion: 2026-04-21
 ---
 
 # 🏥 Proyecto de Medicina: Ecosistema Digital de Salud
 
-Este es el nodo central de toda la información relacionada con el proyecto de salud.
+> [!ABSTRACT] Contexto para Antigravity (IA)
+> **Propósito:** Desarrollar un ecosistema digital integral para la salud en Panamá que conecte pacientes con profesionales médicos.
+> **Visión:** Centralizar el historial clínico longitudinal del paciente, permitiendo que sea el dueño de su información y pueda compartirla mediante QR con cualquier especialista, mejorando diagnósticos y seguimiento.
+
+---
+
+## 📊 Estado y Progreso
+- **Fase Actual:** Estructuración de Concepto y Base de Datos.
+- **Progreso:** [▓▓░░░░░░░░] 20%
+- **Bloqueadores:** Ninguno. Pendiente validación de leyes locales (Ley 81).
+
+---
+
+## 📖 Manual de Operación
+- **Tecnologías:** PostgreSQL (Supabase), React/Next.js (propuesto), Mermaid para diagramas.
+- **Instrucciones:**
+    1. Revisar el [[database_schema|Esquema de Base de Datos]] para entender las relaciones.
+    2. Consultar la [[propuesta_visual_ui|Propuesta Visual]] para lineamientos de diseño.
+    3. Para añadir cambios, actualizar la Bitácora al final de esta nota.
+
+---
 
 ## 🗂️ Documentación del Proyecto
 - **Concepto:** [[Plataforma_Medica_Panama|Visión de la Plataforma Médica (Panamá)]]
@@ -17,22 +38,15 @@ Este es el nodo central de toda la información relacionada con el proyecto de s
 
 ---
 
-## 💡 Idea Principal
-Desarrollar un ecosistema digital integral para la salud en Panamá, conectando pacientes con profesionales médicos y centralizando el historial clínico longitudinal.
+## 📜 Bitácora de Actualizaciones (Changelog)
 
-## 🎯 Objetivos
-- [x] Establecer la visión general del producto.
-- [ ] Definir el MVP (Producto Mínimo Viable).
-- [ ] Diseñar el modelo de datos completo.
+### 2026-04-21 - @Antigravity
+- **Cambio:** Unificación del repositorio como Vault de Obsidian y creación de la estructura PARA.
+- **Impacto:** Mejora radical en la organización y navegabilidad del proyecto.
 
-## 📝 Notas y Observaciones
-- Primeras ideas sobre el enfoque y alcance del proyecto.
-- Discutir con el equipo sobre las funcionalidades clave.
-
-## 🚀 Próximos Pasos
-- [ ] Definir el alcance técnico inicial.
-- [ ] Investigar regulaciones de datos de salud en Panamá.
-- [ ] Listar las tecnologías a utilizar.
+### 2026-04-21 - @Antigravity
+- **Cambio:** Interconexión de notas mediante WikiLinks y creación de Backlinks.
+- **Impacto:** El grafo de Obsidian ahora muestra una estructura solar coherente y conectada.
 
 ---
 🔙 Volver al [[Jarvis Millonario|Cerebro Digital]]
