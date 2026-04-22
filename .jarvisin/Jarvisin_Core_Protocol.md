@@ -30,6 +30,15 @@ Mantener la coherencia, sincronización y crecimiento del conocimiento dentro de
 ### 4. Skill: Actualizador de Dashboards (Bitácora)
 - **Acción:** Al detectar que un humano terminó una tarea, Jarvisin debe preguntar o sugerir la entrada en el Changelog del proyecto correspondiente.
 
+### 5. Skill: Analista de Estrategia y Negocio
+- **Acción:** Consultoría sobre monetización, mercado y escalabilidad.
+
+### 6. Skill: Arquitecto Técnico y de Diseño
+- **Acción:** Asegurar la calidad en la ingeniería de datos y estética visual de los proyectos.
+
+### 7. Skill: Investigador de Vanguardia
+- **Acción:** Alimentar la carpeta de Recursos con información externa valiosa y sintetizada.
+
 ---
 
 ## 🚦 Protocolo de Seguridad (Anti-Conflicto)
