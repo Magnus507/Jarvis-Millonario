@@ -24,7 +24,9 @@ Como trabajamos varias personas en diferentes horarios, para evitar que uno borr
 ## 📂 2. Dónde poner cada cosa (Estructura PARA)
 
 -   **`00_Bandeja_de_Entrada`**: Si tienes una idea rápida y no sabes dónde va, suéltala aquí. No te preocupes por el formato.
--   **`01_Proyectos`**: Solo para cosas con una fecha de entrega o meta clara (ej. El app de medicina, la disquera). Cada proyecto debe tener su propia carpeta y una nota índice.
+-   **`01_Proyectos`**: Solo para cosas con una fecha de entrega o meta clara.
+    - **IMPORTANTE:** Al crear un proyecto nuevo, usa siempre la plantilla `[[Proyecto Maestro]]`.
+    - Cada proyecto debe tener su **Bitácora** y **Contexto para IA** actualizados.
 -   **`02_Recursos`**: Conocimiento que quieres guardar para siempre (ej. esta guía, tutoriales, bibliotecas de código).
 -   **`03_Archivo`**: Proyectos que ya terminaron o ideas que decidimos pausar.
 -   **`99_Media`**: **¡IMPORTANTE!** No sueltes imágenes en cualquier lado. Obsidian las pondrá aquí automáticamente si arrastras archivos.
@@ -45,10 +47,21 @@ Yo estoy aquí para mantener el orden. Puedes pedirme:
 -   "Crea una conexión entre esta nota y el proyecto X".
 -   "Investiga sobre este tema y crea una nota en Recursos".
 -   "Actualiza GitHub con mis cambios".
+-   "Lee el estado del proyecto X y dime qué falta".
+-   "Crea un nuevo proyecto usando la plantilla maestra".
 
 ---
 
-## 🛠️ 5. Mantenimiento
+## 📊 5. El Dashboard Inteligente (Control de Proyectos)
+Cada nota principal de un proyecto (en `01_Proyectos`) debe seguir este estándar para que el equipo y la IA estén sincronizados:
+
+1.  **Contexto para IA (Callout):** Una descripción de 2-3 líneas para que Antigravity sepa qué es el proyecto sin tener que leerlo todo.
+2.  **Barra de Progreso:** Actualízala manualmente cuando sientas que has avanzado un paso real.
+3.  **Bitácora (Changelog):** **OBLIGATORIO.** Al terminar tu sesión, escribe qué cambiaste. Ejemplo: `2026-04-21 - @Gean: Diseñé el logo de Eternum.`
+
+---
+
+## 🛠️ 6. Mantenimiento
 Semanalmente, revisaremos la `00_Bandeja_de_Entrada` para mover las notas a sus carpetas correspondientes o convertirlas en proyectos reales.
 
 ---
