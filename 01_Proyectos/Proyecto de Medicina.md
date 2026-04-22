@@ -3,7 +3,6 @@ tags:
   - proyecto
   - medicina
 estado: activo
-progreso: 35
 ultima_actualizacion: 2026-04-21
 ---
 
@@ -17,7 +16,6 @@ ultima_actualizacion: 2026-04-21
 
 ## 📊 Estado y Progreso
 - **Fase Actual:** Definición de Arquitectura Técnica y Prototipado Visual.
-- **Progreso:** [▓▓▓░░░░░░░] 35%
 - **Bloqueadores:** Ninguno. Siguiente paso: Validación legal y prototipo interactivo.
 
 ---

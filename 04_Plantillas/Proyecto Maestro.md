@@ -3,7 +3,6 @@ tags:
   - proyecto
   - dashboard
 estado: idea
-progreso: 0
 ultima_actualizacion: {{date}}
 ---
 
@@ -17,7 +16,6 @@ ultima_actualizacion: {{date}}
 
 ## 📊 Estado y Progreso
 - **Fase Actual:** [Investigación / Diseño / Desarrollo / Lanzamiento]
-- **Progreso:** [▓░░░░░░░░░] 0%
 - **Bloqueadores:** [Enumera aquí si algo te detiene]
 
 ---
