@@ -8,7 +8,7 @@ El repositorio está organizado para maximizar la productividad y el enfoque:
 
 - **00_Bandeja_de_Entrada**: Captura rápida de ideas, notas sueltas y pensamientos brutos.
 - **01_Proyectos**: Gestión activa de proyectos con resultados definidos (ej. [[Proyecto de Medicina|Proyecto de Medicina]], [[Disquera Eternum Records|Eternum Records]]).
-- **02_Recursos**: Intereses continuos, bibliotecas de conocimiento y referencias.
+- **02_Recursos**: Intereses continuos, bibliotecas de conocimiento y la [[Guia_de_Uso_Jarvis_Millonario|Guía de Uso del Sistema]].
 - **03_Archivo**: Proyectos completados o ideas pausadas.
 - **04_Plantillas**: Formatos estandarizados como [[Nueva Idea]] para mantener la coherencia.
 
