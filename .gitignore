@@ -1,0 +1,12 @@
+# Obsidian-specific ignores
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace
+.obsidian/core-plugins-migration.json
+.trash/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
