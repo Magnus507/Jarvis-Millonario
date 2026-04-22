@@ -1,6 +1,6 @@
 # 🚀 Jarvis Millonario
 
-Este es el repositorio central de **Jarvis Millonario**, un espacio colaborativo diseñado para la gestión de proyectos, ideas y conocimiento compartido. Todo el repositorio funciona como un **Vault de Obsidian**.
+Este es el repositorio central de **Jarvis Millonario**, un espacio colaborativo diseñado para la gestión de proyectos, ideas y conocimiento compartido. Todo el repositorio funciona como un **Vault de Obsidian** orquestado por **[[Jarvisin_Core_Protocol|Jarvisin]]**.
 
 ## 🧠 Estructura del Segundo Cerebro (Metodología PARA)
 

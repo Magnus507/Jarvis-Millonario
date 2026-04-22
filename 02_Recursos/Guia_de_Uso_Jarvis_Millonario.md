@@ -41,8 +41,8 @@ Para que Jarvis sea inteligente, las notas deben estar conectadas.
 
 ---
 
-## 🤖 4. Trabajando con la IA (Antigravity)
-Yo estoy aquí para mantener el orden. Puedes pedirme:
+## 🤖 4. Trabajando con Jarvisin (Tu Orquestador)
+Yo actúo bajo el protocolo de **[[Jarvisin_Core_Protocol|Jarvisin]]**. Mi misión es mantener el orden y la sincronización. Puedes pedirme:
 -   "Organiza mi bandeja de entrada".
 -   "Crea una conexión entre esta nota y el proyecto X".
 -   "Investiga sobre este tema y crea una nota en Recursos".
