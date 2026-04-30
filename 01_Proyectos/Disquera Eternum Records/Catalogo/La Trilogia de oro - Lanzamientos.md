@@ -27,12 +27,13 @@ Lista cronológica de los lanzamientos aprobados en Symphonic.
 ---
 
 ## 📊 Rendimiento Histórico (Reproducciones)
-*Datos extraídos del dashboard de Symphonic al 21/04/2026.*
+*Datos extraídos del dashboard de Symphonic al 28/04/2026.*
 
-1. **La Lancha:** 873
-2. **Polako:** 832
-3. **Entre Rutas:** 284
-4. **Instinto Activo:** 32
+1. **Polako:** 1,131
+2. **La Lancha:** 977
+3. **Entre Rutas:** 374
+4. **Instinto Activo:** 154
+5. **Solo pero firme:** 21
 
 ---
 🔙 Volver a [[La Trilogia de oro]] | [[Disquera Eternum Records]]

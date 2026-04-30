@@ -10,7 +10,8 @@ redes_sociales:
   instagram: https://www.instagram.com/la_trilogia_de_oro/
   spotify: https://open.spotify.com/intl-es/artist/5EsIsYI4T7jCJIQDEH8Tws
   youtube: https://www.youtube.com/channel/UCd0_upcOwHL_vadpoTjQ-GQ
-  apple_music: https://music.apple.com/es/artist/la-trilogia-de-oro/1887393837
+  apple_music: https://music.apple.com/ar/artist/la-trilogia-de-oro/1887393837
+  tiktok: https://www.tiktok.com/@eternum_records
 ---
 
 # 🎙️ La Trilogía de Oro
@@ -20,19 +21,24 @@ redes_sociales:
 
 ---
 
-## 📈 Estadísticas Actuales (Corte: 2026-04-21)
-- **Total Reproducciones:** 2,021
-- **Spotify:** 1,888
-- **YouTube Art Tracks:** 133
-- **Plataformas Activas:** Spotify, YouTube, WhatsApp, Instagram, TikTok, Apple Music.
+## 📈 Estadísticas Actuales (Corte: 2026-04-28)
+- **Total Reproducciones:** 2,657
+- **Spotify:** 2,439 (510 oyentes mensuales, 6 seguidores)
+- **YouTube Art Tracks:** 216 (canal Topic automático, sin contenido propio)
+- **Apple Music:** 0 reproducciones reportadas (7 singles disponibles)
+- **Audiomack:** 2
+- **Instagram:** 2 seguidores, 6 publicaciones
+- **TikTok:** @eternum_records (en desarrollo)
+- **Plataformas Activas:** Spotify, YouTube, Instagram, TikTok, Apple Music, Audiomack.
 
 ---
 
 ## 💿 Lanzamientos Destacados
-- **La Lancha:** 873 reproducciones (Top 1)
-- **Polako:** 832 reproducciones (Top 2)
-- **Entre Rutas:** 284 reproducciones (Top 3)
-- **Instinto Activo:** 32 reproducciones
+- **Polako:** 1,131 reproducciones (Top 1)
+- **La Lancha:** 977 reproducciones (Top 2)
+- **Entre Rutas:** 374 reproducciones (Top 3)
+- **Instinto Activo:** 154 reproducciones
+- **Solo pero firme:** 21 reproducciones
 
 Para ver la lista completa de lanzamientos, ir a [[La Trilogia de oro - Lanzamientos]].
 
@@ -46,9 +52,10 @@ Para ver la lista completa de lanzamientos, ir a [[La Trilogia de oro - Lanzamie
 ---
 
 ## 🔗 Enlaces Rápidos
-- [Instagram](https://www.instagram.com/la_trilogia_de_oro/)
+- [TikTok Label](https://www.tiktok.com/@eternum_records)
+- [Instagram Artist](https://www.instagram.com/la_trilogia_de_oro/)
 - [YouTube Channel](https://www.youtube.com/channel/UCd0_upcOwHL_vadpoTjQ-GQ)
-- [Apple Music](https://music.apple.com/es/artist/la-trilogia-de-oro/1887393837)
+- [Apple Music](https://music.apple.com/ar/artist/la-trilogia-de-oro/1887393837)
 - [Spotify Artist Profile](https://open.spotify.com/intl-es/artist/5EsIsYI4T7jCJIQDEH8Tws)
 
 ---

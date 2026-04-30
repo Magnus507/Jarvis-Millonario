@@ -4,7 +4,7 @@ tags:
   - musica
   - disquera
 estado: activo
-ultima_actualizacion: 2026-04-21
+ultima_actualizacion: 2026-04-28
 ---
 
 # 🎵 Disquera Eternum Records
@@ -17,7 +17,8 @@ ultima_actualizacion: 2026-04-21
 
 ## 📊 Estado y Progreso
 - **Fase Actual:** Ejecución de lanzamientos y monitoreo de analíticas.
-- **Bloqueadores:** Optimización del marketing para escalar las reproducciones (actualmente en 2k+).
+- **Estado Global:** Total de **2,657 reproducciones** (Spotify liderando con 2,439).
+- **Próximo Hito:** Lanzamiento de *No Era Locura* (Mañana, 29/04).
 
 ---
 
@@ -48,13 +49,22 @@ ultima_actualizacion: 2026-04-21
 - [x] [[Skill_Eternum_Rights|⚖️ Rights: Legal y Regalías]]
 - [x] [[Skill_Eternum_A_R|🕵️ A&R: Mercado y Tendencias]]
 
-### 📁 Recursos Relacionados
+### 📁 Recursos y Redes
+- **TikTok:** [@eternum_records](https://www.tiktok.com/@eternum_records)
 - [[Symphonic]]: Distribuidora actual.
 - [[Suno AI]]: Motor de creación musical.
 
 ---
 
 ## 📜 Bitácora de Actualizaciones (Changelog)
+
+### 2026-04-28 - @Antigravity (Jarvisin)
+- **Cambio:** Actualización de métricas de rendimiento y catálogo.
+- **Hitos:** 
+    - Se alcanzó un total de **2,657 reproducciones** globales.
+    - **Polako** se consolida como el tema más escuchado con **1,131 streams**.
+    - Sincronización de fechas de lanzamientos próximos (*No Era Locura*, *Con eso me basta*, etc.).
+- **Impacto:** Datos actualizados para la toma de decisiones estratégicas de Growth.
 
 ### 2026-04-21 - @Antigravity (Jarvisin)
 - **Cambio:** Finalización de la **Arquitectura Operativa Eternum v1.0**.
