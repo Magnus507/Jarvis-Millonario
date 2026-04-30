@@ -8,7 +8,7 @@ He definido una línea visual **Premium y Profesional** para el proyecto. El obj
 ## 1. Dashboard del Paciente (Timeline Médico)
 Esta es la vista principal donde el paciente lleva su cronología. Cada tarjeta representa una cita o resultado de laboratorio.
 
-![Dashboard del Paciente (Timeline)]([[paciente_dashboard_timeline_1776829456545.png]])
+![Dashboard del Paciente (Timeline)](../../99_Media/paciente_dashboard_timeline_1776829456545.png)
 
 *   **Línea de tiempo:** Organizada por fecha.
 *   **Iconografía:** Ayuda a identificar rápido la especialidad.
@@ -19,7 +19,7 @@ Esta es la vista principal donde el paciente lleva su cronología. Cada tarjeta 
 ## 2. Buscador de Doctores y Especialistas
 Diseñado para encontrar atención rápida en cualquier provincia de Panamá.
 
-![Buscador de Doctores]([[buscador_doctores_panama_1776829481847.png]])
+![Buscador de Doctores](../../99_Media/buscador_doctores_panama_1776829481847.png)
 
 *   **Filtros Inteligentes:** Búsqueda por especialidad y ubicación.
 *   **Tarjetas de Doctores:** Incluyen rating (estrellas) para generar confianza y botón de reserva directa.

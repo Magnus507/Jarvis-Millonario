@@ -21,5 +21,9 @@ Para trabajar en este ecosistema:
 3. Abre la carpeta raíz `Jarvis Millonario` como tu Vault principal.
 4. Antes de empezar a escribir, haz un `git pull`. Al terminar, haz `git push`.
 
+## ⚡ Operación Diaria
+
+- [[00_Dashboard_Operativo|Dashboard Operativo]]: vista rápida de estado, métricas, bloqueadores y próximas acciones.
+
 ---
 *Configurado por Gean Cusatti & Antigravity AI*

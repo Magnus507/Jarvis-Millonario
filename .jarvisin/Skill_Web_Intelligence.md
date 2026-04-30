@@ -124,7 +124,7 @@ Fuentes consultadas: [número]
 💡 Recomendación:
 [Una acción concreta basada en los hallazgos]
 
-📁 Guardado en: [[ruta/a/la/nota]]
+📁 Guardado en: `ruta/a/la/nota`
 ```
 
 ---

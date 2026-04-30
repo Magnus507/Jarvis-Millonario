@@ -121,7 +121,7 @@ Plan: 3 pasos
 
 ✅ Tarea completada
 Resultado: [1 oración de lo que se logró]
-Nota actualizada: [[ruta/a/la/nota]]
+Nota actualizada: `ruta/a/la/nota`
 Bitácora: ✓ Registrada
 ```
 

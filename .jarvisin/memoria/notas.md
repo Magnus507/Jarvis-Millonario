@@ -12,7 +12,7 @@ git_workflow: "pull → trabajar → push. Obligatorio al inicio y fin de TODA s
 clasificacion_rapida: "Notas en Bandeja >24h deben clasificarse. Jarvisin propone."
 bitacora_formato: "[YYYY-MM-DD] - @usuario: Cambio. Impacto: Resultado."
 bitacora_cuando: "Después de CADA cambio significativo en cualquier proyecto"
-enlace_wiki: "Siempre crear WikiLinks [[Nota]] cuando se menciona un proyecto/concepto"
+enlace_wiki: "Siempre crear WikiLinks a notas reales cuando se menciona un proyecto/concepto"
 notas_huerfanas: "Evitar — cada nota debe estar conectada a al menos 1 otra"
 
 # ─── REGLAS MUSICALES (ETERNUM) ───────────────────────────────

@@ -135,7 +135,7 @@ COMUNICACIÓN:
 ### 3. Constructor de Grafos
 - Si se menciona "Eternum" → crear `[[Disquera Eternum Records]]`
 - Si se menciona "Medicina" → crear `[[Proyecto de Medicina]]`
-- Si se menciona nombre de canción → crear `[[Prompts_Suno/Canciones/nombre]]`
+- Si se menciona nombre de canción → crear una nota en `Prompts_Suno/Canciones/nombre`
 - Objetivo: cero notas huérfanas
 
 ### 4. Actualizador de Bitácoras

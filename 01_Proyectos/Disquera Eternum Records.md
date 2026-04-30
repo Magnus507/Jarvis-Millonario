@@ -23,7 +23,7 @@ ultima_actualizacion: 2026-04-28
 ---
 
 ## 📖 Manual de Operación
-- **Tecnologías:** Por definir.
+- **Tecnologías:** Suno AI v5.5, Symphonic, Spotify for Artists, TikTok, Instagram y Obsidian/Git para documentación operativa.
 - **Instrucciones:**
     1. El equipo irá actualizando los avances previos para consolidar la visión en este cerebro digital.
     2. Consultar la [[GUIA_DE_OPERACION_ETERNUM|Guía de Operación]] para entender el flujo de trabajo con la IA.
@@ -57,6 +57,10 @@ ultima_actualizacion: 2026-04-28
 ---
 
 ## 📜 Bitácora de Actualizaciones (Changelog)
+
+### 2026-04-29 - @Codex
+- **Cambio:** Se reemplazó "Tecnologías: Por definir" por el stack operativo real de Eternum Records.
+- **Impacto:** El índice principal queda alineado con el sistema vivo: producción en Suno AI v5.5, distribución vía Symphonic y medición con Spotify for Artists.
 
 ### 2026-04-28 - @Antigravity (Jarvisin)
 - **Cambio:** Actualización de métricas de rendimiento y catálogo.

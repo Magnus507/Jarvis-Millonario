@@ -35,7 +35,7 @@ Como trabajamos varias personas en diferentes horarios, para evitar que uno borr
 
 ## 🕸️ 3. El Poder del Grafo (Enlaces)
 Para que Jarvis sea inteligente, las notas deben estar conectadas.
--   Usa `[[Nombre de la Nota]]` cada vez que menciones algo que ya existe.
+-   Usa WikiLinks a notas reales cada vez que menciones algo que ya existe, por ejemplo `[[Proyecto de Medicina]]`.
 -   Si mencionas un proyecto, enlaza a su nota principal en `01_Proyectos`.
 -   **Evita las notas huérfanas:** Una nota que no está conectada a nada es una nota que se pierde.
 

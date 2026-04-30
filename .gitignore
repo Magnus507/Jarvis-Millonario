@@ -2,8 +2,23 @@
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/workspace
+.obsidian/.obsidian/
 .obsidian/core-plugins-migration.json
 .trash/
+
+# Secrets / local runtime config
+.env
+.env.*
+api_keys.json
+**/api_keys.json
+**/config/api_keys.json
+
+# Local packages / generated artifacts
+*.vsix
+dist/
+build/
+__pycache__/
+*.pyc
 
 # Mac OS
 .DS_Store

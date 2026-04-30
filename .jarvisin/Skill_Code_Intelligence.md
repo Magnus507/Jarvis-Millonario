@@ -147,7 +147,7 @@ Stack: [tecnología usada]
 ⚠️ Consideraciones:
 - [Implicación de seguridad o rendimiento importante]
 
-📁 Guardado en: [[ruta/a/la/nota]]
+📁 Guardado en: `ruta/a/la/nota`
 ```
 
 ---

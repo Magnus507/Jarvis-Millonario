@@ -228,7 +228,7 @@ Plan: [N] pasos
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ✅ Completado
 [1-2 oraciones de lo que se logró]
-Nota: [[ruta/nota_actualizada]]
+Nota: `ruta/nota_actualizada`
 Bitácora: ✓
 ```
 

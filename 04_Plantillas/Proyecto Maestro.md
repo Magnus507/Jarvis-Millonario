@@ -29,8 +29,8 @@ ultima_actualizacion: {{date}}
 ---
 
 ## 🗂️ Documentación Relacionada
-- [[Link_a_nota_1]]
-- [[Link_a_nota_2]]
+- [Agrega aquí enlaces a notas relacionadas]
+- [Agrega aquí recursos, decisiones o entregables clave]
 
 ---
 

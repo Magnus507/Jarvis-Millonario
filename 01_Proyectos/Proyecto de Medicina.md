@@ -16,7 +16,8 @@ ultima_actualizacion: 2026-04-21
 
 ## 📊 Estado y Progreso
 - **Fase Actual:** Definición de Arquitectura Técnica y Prototipado Visual.
-- **Bloqueadores:** Ninguno. Siguiente paso: Validación legal y prototipo interactivo.
+- **Bloqueadores:** Validación legal pendiente sobre Ley 81 de Panamá antes de implementar funciones con datos médicos sensibles.
+- **Siguiente paso:** Revisar cumplimiento Ley 81 y luego construir prototipo interactivo.
 
 ---
 
@@ -37,6 +38,10 @@ ultima_actualizacion: 2026-04-21
 ---
 
 ## 📜 Bitácora de Actualizaciones (Changelog)
+
+### 2026-04-29 - @Codex
+- **Cambio:** Alineación del estado del proyecto con la memoria operativa de Jarvisin: Ley 81 queda marcada como bloqueo real.
+- **Impacto:** El proyecto evita avanzar a implementación médica sensible sin validación legal previa.
 
 ### 2026-04-21 - @Antigravity
 - **Cambio:** Creación del Esquema de Base de Datos relacional completo (PostgreSQL/Supabase).
