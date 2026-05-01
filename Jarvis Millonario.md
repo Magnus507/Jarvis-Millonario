@@ -24,6 +24,11 @@ Para trabajar en este ecosistema:
 ## ⚡ Operación Diaria
 
 - [[00_Dashboard_Operativo|Dashboard Operativo]]: vista rápida de estado, métricas, bloqueadores y próximas acciones.
+- [[Setup_VSCode_Jarvis_Millonario|Setup VSCode Jarvis Millonario]]: extensiones y reglas para operar el Vault desde VSCode.
+
+## Bitacora
+
+- 2026-04-30 - @Codex: Documentado setup VSCode y actualizadas recomendaciones del workspace. Impacto: mejor operacion multi-PC con Git, Markdown, Foam, Todo Tree y Codex.
 
 ---
 *Configurado por Gean Cusatti & Antigravity AI*

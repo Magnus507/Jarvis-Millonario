@@ -1,0 +1,22 @@
+{
+    "editor.wordWrap": "on",
+    "files.exclude": {
+        "**/.git": true
+    },
+    "markdown.extension.toc.levels": "2..4",
+    "todo-tree.general.tags": [
+        "TODO",
+        "FIXME",
+        "PENDIENTE",
+        "REVISAR",
+        "ACCION",
+        "BLOQUEO"
+    ],
+    "todo-tree.highlights.defaultHighlight": {
+        "type": "tag",
+        "foreground": "#ffffff",
+        "background": "#0F52BA",
+        "icon": "checklist"
+    },
+    "prettier.proseWrap": "preserve"
+}

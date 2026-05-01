@@ -1,6 +1,6 @@
 ---
 categoria: notas
-updated: 2026-04-29
+updated: 2026-04-30
 descripcion: Notas operativas, patrones observados, decisiones tomadas y reglas del sistema
 ---
 
@@ -39,6 +39,8 @@ fortaleza_sistema: "Documentación exhaustiva + protocolo claro = sistema escala
 area_mejora: "Apple Music y YouTube necesitan estrategia activa (0 traction actualmente)"
 oportunidad_tiktok: "TikTok es el canal más subutilizado — alto potencial para corridos virales"
 riesgo_medica: "Ley 81 es el único bloqueador real antes de ir a producción"
+setup_vscode: "VSCode reforzado con ChatGPT/Codex, GitLens, Markdown All in One, Foam, Todo Tree, GitHub Pull Requests, Markdown Preview Enhanced, Mermaid Markdown Syntax Highlighting y Prettier"
+uso_vscode: "Usar VSCode como cabina secundaria para Git, Markdown, busqueda, backlinks, TODOs y operacion tecnica del Vault"
 
 # ─── DECISIONES HISTÓRICAS IMPORTANTES ───────────────────────
 decision_suno: "Elegir Suno v5.5 sobre otras IA musicales por calidad de voz y estilo"

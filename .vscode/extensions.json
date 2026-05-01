@@ -1,5 +1,13 @@
 {
     "recommendations": [
-        "openai.chatgpt"
+        "openai.chatgpt",
+        "eamodio.gitlens",
+        "yzhang.markdown-all-in-one",
+        "foam.foam-vscode",
+        "gruntfuggly.todo-tree",
+        "github.vscode-pull-request-github",
+        "shd101wyy.markdown-preview-enhanced",
+        "bpruitt-goddard.mermaid-markdown-syntax-highlighting",
+        "esbenp.prettier-vscode"
     ]
 }

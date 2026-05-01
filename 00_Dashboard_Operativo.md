@@ -1,7 +1,7 @@
 ---
 tipo: dashboard
 estado: vivo
-updated: 2026-04-29
+updated: 2026-04-30
 tags:
   - dashboard
   - jarvisin
@@ -18,7 +18,7 @@ tags:
 |---|---|---|---|
 | [[Disquera Eternum Records]] | Operando lanzamientos y monitoreo de métricas | Dar seguimiento al lanzamiento de "No Era Locura" y preparar el próximo ciclo de contenido | Ninguno crítico |
 | [[Proyecto de Medicina]] | Prototipado con arquitectura definida | Revisar cumplimiento de Ley 81 Panamá | Validación legal pendiente |
-| [[Jarvis Millonario]] | Vault activo en evolución | Limpiar enlaces, mantener bitácoras y sincronizar Git | Cambios pendientes por commit |
+| [[Jarvis Millonario]] | Vault activo en evolución con VSCode reforzado | Usar [[Setup_VSCode_Jarvis_Millonario]] como cabina secundaria de operación | Mantener commits limpios entre PCs |
 
 ## Métricas Clave
 
@@ -40,6 +40,7 @@ tags:
 
 - Sistema: [[00_INFORME_SISTEMA_JARVIS_MILLONARIO]]
 - Guía de uso: [[Guia_de_Uso_Jarvis_Millonario]]
+- Setup VSCode: [[Setup_VSCode_Jarvis_Millonario]]
 - Memoria de proyectos: [[proyectos]]
 - Eternum: [[Disquera Eternum Records]]
 - Medicina: [[Proyecto de Medicina]]

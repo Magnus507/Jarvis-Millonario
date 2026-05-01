@@ -293,11 +293,33 @@ Al salir:   git add [archivos] → git commit -m "descripción" → git push
 | Interfaz | Cómo activar Jarvisin | Mejor para |
 |---|---|---|
 | **Antigravity** | Abrir chat → contexto del Vault disponible | Estrategia, contenido, análisis, decisiones |
-| **Codex (ChatGPT en VSCode)** | Extension activa → leer archivos del Vault | SQL, React, Python, revisión de código |
+| **Codex (ChatGPT en VSCode)** | Extension activa → leer archivos del Vault | SQL, React, Python, revisión de código, Git y mantenimiento del Vault |
 | **Claude Code** | Terminal en el Vault → acceso total a archivos | Operaciones del Vault, git, archivos, scripts |
 
 **Lo que hace el Vault agnóstico al modelo:**
 Cada AI que abra el Vault y lea los protocolos de `.jarvisin/` tiene el mismo "manual de operaciones". El comportamiento es consistente porque las reglas están escritas aquí, no hardcodeadas en el modelo.
+
+### 8.1 Setup VSCode Activo
+
+El entorno VSCode queda documentado en `02_Recursos/Setup_VSCode_Jarvis_Millonario.md` y reforzado con recomendaciones en `.vscode/extensions.json`.
+
+Extensiones activas/recomendadas:
+- ChatGPT / Codex
+- GitLens
+- Markdown All in One
+- Foam
+- Todo Tree
+- GitHub Pull Requests
+- Markdown Preview Enhanced
+- Mermaid Markdown Syntax Highlighting
+- Prettier
+
+Uso esperado:
+- GitLens para detectar cambios entre PCs antes de editar.
+- Foam para navegar notas conectadas y backlinks.
+- Todo Tree para convertir pendientes en acciones visibles.
+- Markdown Preview Enhanced para revisar documentos largos.
+- Prettier para mantener limpios archivos tecnicos.
 
 ---
 
