@@ -19,6 +19,7 @@ tags:
 | [[Disquera Eternum Records]] | Operando lanzamientos y monitoreo de métricas | Dar seguimiento al lanzamiento de "No Era Locura" y preparar el próximo ciclo de contenido | Ninguno crítico |
 | [[Proyecto de Medicina]] | Prototipado con arquitectura definida | Revisar cumplimiento de Ley 81 Panamá | Validación legal pendiente |
 | [[PreRescue ID]] | Proyecto dentro de `01_Proyectos` con Git propio | Esperar instrucciones antes de tocar archivos del proyecto | Repositorio/GitHub separado de Jarvi |
+| [[App de Citas PTY]] | Desarrollo conceptual; promovido desde idea | Definir nombre provisional, posicionamiento y MVP documental | Validar demanda y aliados locales |
 | [[Jarvis Millonario]] | Vault activo en evolución con VSCode reforzado | Usar [[Setup_VSCode_Jarvis_Millonario]] como cabina secundaria de operación | Mantener commits limpios entre PCs |
 
 ## Métricas Clave
@@ -37,6 +38,7 @@ tags:
 - Para Eternum: usar siempre Suno AI v5.5 y evitar canciones similares al catálogo existente.
 - Para Medicina: no implementar funciones con datos médicos sensibles antes de revisar Ley 81 Panamá.
 - Para PreRescue ID: no tocar archivos sin instrucción explícita; si se sube PreRescue, también actualizar/subir Jarvi por separado.
+- Para App de Citas PTY: no crear web/app/prototipo técnico hasta nueva instrucción; mantenerlo en desarrollo conceptual.
 
 ## Rutas Rápidas
 
@@ -47,3 +49,4 @@ tags:
 - Eternum: [[Disquera Eternum Records]]
 - Medicina: [[Proyecto de Medicina]]
 - PreRescue ID: [[PreRescue ID]]
+- App de Citas PTY: [[App de Citas PTY]]
