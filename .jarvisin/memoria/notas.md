@@ -1,6 +1,6 @@
 ---
 categoria: notas
-updated: 2026-04-30
+updated: 2026-05-01
 descripcion: Notas operativas, patrones observados, decisiones tomadas y reglas del sistema
 ---
 
@@ -41,6 +41,8 @@ oportunidad_tiktok: "TikTok es el canal más subutilizado — alto potencial par
 riesgo_medica: "Ley 81 es el único bloqueador real antes de ir a producción"
 setup_vscode: "VSCode reforzado con ChatGPT/Codex, GitLens, Markdown All in One, Foam, Todo Tree, GitHub Pull Requests, Markdown Preview Enhanced, Mermaid Markdown Syntax Highlighting y Prettier"
 uso_vscode: "Usar VSCode como cabina secundaria para Git, Markdown, busqueda, backlinks, TODOs y operacion tecnica del Vault"
+pre_rescue_id_operacion: "PreRescue ID vive dentro de Jarvi en 01_Proyectos/PreRescue ID, pero conserva GitHub/subida independiente. No tocar sus archivos sin instruccion explicita."
+doble_subida_github: "Si se pide subir PreRescue ID, hacer push en su repo PreRescatePTY y tambien actualizar/subir Jarvi Millonario en su repo separado."
 
 # ─── DECISIONES HISTÓRICAS IMPORTANTES ───────────────────────
 decision_suno: "Elegir Suno v5.5 sobre otras IA musicales por calidad de voz y estilo"

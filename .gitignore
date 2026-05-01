@@ -20,6 +20,9 @@ build/
 __pycache__/
 *.pyc
 
+# External project repositories managed separately
+01_Proyectos/PreRescue ID/
+
 # Mac OS
 .DS_Store
 

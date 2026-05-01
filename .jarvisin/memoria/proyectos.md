@@ -1,6 +1,6 @@
 ---
 categoria: proyectos
-updated: 2026-04-29
+updated: 2026-05-01
 descripcion: Contexto condensado y estado actual de proyectos activos
 ---
 
@@ -109,6 +109,28 @@ pendiente:
 
 bloqueo_actual: "Pendiente revisión Ley 81 Panamá"
 monetizacion: "Freemium médicos + Gratis pacientes + % por cita pagada"
+```
+
+---
+
+## PreRescue ID
+
+```yaml
+tipo: Proyecto externo registrado en Jarvi
+estado: Activo - pendiente de instrucciones
+fase: Registrado para trabajo futuro
+ubicacion_local: "C:\\Users\\geank\\OneDrive\\Desktop\\Jarvi Millonario\\01_Proyectos\\PreRescue ID"
+nota_maestra: "01_Proyectos/PreRescue ID.md"
+github_repo: "https://github.com/Magnus507/PreRescatePTY.git"
+
+reglas_operativas:
+  - "No leer, editar, ejecutar ni modificar archivos de PreRescue ID sin instruccion explicita del usuario."
+  - "PreRescue ID vive dentro de 01_Proyectos, pero mantiene repositorio Git separado del Vault Jarvi Millonario."
+  - "Los cambios de memoria/documentacion de Jarvi se suben al GitHub de Jarvi."
+  - "Los cambios de PreRescue ID se suben aparte al GitHub propio de PreRescue ID."
+  - "Cuando se suba PreRescue ID, actualizar tambien Jarvi Millonario y hacer push separado."
+
+control_versiones: "GitHub independiente; no mezclar commits ni pushes con Jarvi Millonario"
 ```
 
 ---
