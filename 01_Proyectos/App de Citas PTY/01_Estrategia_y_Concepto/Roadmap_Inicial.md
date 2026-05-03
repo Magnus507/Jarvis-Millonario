@@ -37,11 +37,24 @@ Hemos organizado el proyecto en la carpeta `01_Proyectos/App de Citas PTY` con e
 
 ### Fase 3: Desarrollo del MVP (Beta Cerrada)
 *   **Objetivo**: Construir una versión funcional para un grupo selecto de usuarios.
-*   **Stack Sugerido**: React Native (Expo), Supabase (Auth & DB), Tailwind CSS.
+*   **Stack Seleccionado**: React Native + Supabase.
 *   **Hitos**:
+    *   [x] Generación de **Master Prompt para AI Studio**.
+    *   [ ] Configuración de DB en Supabase (Tablas de perfiles y planes).
     *   [ ] Implementación de Verificación de Identidad.
-    *   [ ] Sistema de geofencing para zonas PTY.
-    *   [ ] Chat contextual por plan.
+    *   [ ] Sistema de geofencing para zonas PTY (Costa del Este, Casco, San Francisco).
+    *   [ ] Módulo de Chat y Video-Chat (Xopa Directo).
+
+---
+
+## 💰 Estrategia de Monetización (Futura)
+1.  **B2C (Suscripción/Micro-pagos):**
+    *   Acceso al semáforo 🔴 (Action).
+    *   Boost de perfil en "El Parking".
+    *   Xopa Directo ilimitado.
+2.  **B2B (Locales Aliados):**
+    *   Planes patrocinados.
+    *   Comisión por referidos/descuentos.
 
 ---
 
