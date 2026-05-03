@@ -1,7 +1,7 @@
 # 🎵 Track #1: El 10 de la Vereda
 **Álbum:** [Título Pendiente] (Proyecto 10 Tracks)
 **Artista:** La Trilogía de Oro
-**Estado:** Borrador Inicial (Drama Social)
+**Estado:** ✅ Aprobado
 
 ---
 
@@ -74,7 +74,7 @@ Cambié el aplauso del público por el silencio del imperio
 El pan de mi madre vale más que cualquier criterio
 Y ahora juego un partido que termina en el cementerio.
 Fui el 10 del equipo, ahora soy el que manda
-El dinero llegó, pero la muerte me anda.
+El dinero llegó, pero la muerte me sigue.
 
 [Outro]
 Hay partidos que no se ganan en 90 minutos.
