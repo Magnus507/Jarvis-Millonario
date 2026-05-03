@@ -2,8 +2,8 @@
 **Estado:** Pendiente de Aprobación
 **Género:** Corrido Bélico Panameño
 
-## 🎸 Ficha Técnica Suno v5.5 (Tumbado Bélico - Peso Pluma Style)
-**Style Prompt:** Modern Tumbado Bélico, Peso Pluma style husky vocals, heavy tololoche bass, sharp charchetas rhythm, dual trumpets in harmonies (Sinaloa style brass), rhythmic 12-string requinto, high energy, high fidelity, 148bpm, live performance vibe.
+## 🎸 Ficha Técnica Suno v5.5 (Tumbado Bélico Moderno)
+**Style Prompt:** Modern Tumbado Bélico, Husky energetic vocals, heavy tololoche bass, sharp charchetas rhythm, dual trumpets in harmonies (Sinaloa style brass), rhythmic 12-string requinto, high energy, high fidelity, 148bpm, live performance vibe.
 **Exclude Style:** 808 bass, trap, electronic, techno, pop, soft, synth, autotune, feminine.
 
 ---
@@ -15,7 +15,7 @@
 (Grito inicial con voz rasposa) 
 ¡Trilogía de Oro! 
 ¡De la Zone pal mundo! 
-¡Pura Doble P style, pero de Panamá!
+¡Puro corrido tumbado, pero de Panamá!
 ¡Colón y San Miguelito activos!
 
 **[Verse 1 - Tumbado Style]**
@@ -61,7 +61,7 @@ La ruta está segura, la línea está directa.
 
 **[Bridge - Acoustic Breakdown]**
 [Only tololoche and requinto, intimate but strong]
-(Voz profunda, estilo Peso Pluma)
+(Voz profunda, estilo tumbado bélico)
 Recordando a los caídos, brindando por los vivos
 En este ajedrez del ghetto, somos los más agresivos
 Sin santos ni milagros, solo mi propia destreza
