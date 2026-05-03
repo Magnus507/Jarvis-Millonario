@@ -1,7 +1,7 @@
 # 🎵 Track #3: El Olor de la Pólvora
 **Álbum:** [Título Pendiente] (Proyecto 10 Tracks)
 **Artista:** La Trilogía de Oro
-**Estado:** Borrador Inicial (La Emboscada)
+**Estado:** ✅ Aprobado
 
 ---
 
