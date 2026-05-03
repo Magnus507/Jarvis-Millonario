@@ -9,7 +9,7 @@ estado: desarrollo_conceptual
 ultima_actualizacion: 2026-05-01
 ---
 
-# App de Citas PTY
+# App de Citas: Qxopa?
 
 > [!ABSTRACT] Contexto para Jarvisin
 > **Proposito:** Crear una app de citas enfocada exclusivamente en Panama, con privacidad fuerte, planes reales, comunidades locales y alianza con restaurantes/locales.
@@ -185,6 +185,7 @@ Principio:
 ### 5. Ventanas Sociales PTY
 
 - La app se activa con mas fuerza jueves, viernes y sabado.
+- **Regla de Oro de Actividad:** Solo se muestran perfiles y planes de usuarios que esten activos en ese momento o lo hayan estado en la ultima hora. Esto garantiza que la app este "viva" y evita la frustracion de perfiles fantasma.
 - Los planes pueden expirar o renovarse por ventana social.
 - Sirve para combatir el swipe infinito y empujar encuentros reales.
 - Zonas iniciales posibles: Casco, San Francisco, Costa del Este, El Cangrejo, Bella Vista, Panama Oeste.

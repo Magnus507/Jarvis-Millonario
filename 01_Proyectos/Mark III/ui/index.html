@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es" data-state="idle">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MARK III</title>
+  <link rel="stylesheet" href="/static/styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- ── Top Bar ─────────────────────────────────────────────── -->
+  <div id="topbar">
+    <div id="logo">MARK III</div>
+    <div id="status-bar">
+      <div id="status-dot"></div>
+      <span id="state-text">EN LÍNEA</span>
+      <span id="provider-badge">CLAUDE</span>
+    </div>
+    <div style="display:flex;gap:8px">
+      <button class="btn" id="reset-btn" title="Nueva conversación">↺ Reset</button>
+    </div>
+  </div>
+
+  <!-- ── Main ───────────────────────────────────────────────── -->
+  <div id="main">
+
+    <!-- Orb Panel -->
+    <div id="orb-panel">
+      <canvas id="orb-canvas"></canvas>
+      <div id="state-label">EN ESPERA</div>
+      <div id="wake-hint">Di "Hola Mark" para activar por voz</div>
+    </div>
+
+    <!-- Chat Panel -->
+    <div id="chat-panel">
+      <div id="messages"></div>
+      <div id="input-area">
+        <textarea
+          id="input-box"
+          placeholder="Escribe un comando o pregunta..."
+          rows="1"
+        ></textarea>
+        <button id="send-btn" title="Enviar">▶</button>
+      </div>
+    </div>
+
+    <!-- Right Panel -->
+    <div id="right-panel">
+      <div class="panel-section">
+        <div class="panel-title">Herramientas Activas</div>
+        <div id="tools-list">Cargando...</div>
+      </div>
+      <div class="panel-section" style="flex:none">
+        <div class="panel-title">Actividad</div>
+      </div>
+      <div id="activity-log"></div>
+    </div>
+
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

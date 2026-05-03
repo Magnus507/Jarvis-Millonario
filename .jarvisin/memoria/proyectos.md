@@ -135,6 +135,53 @@ control_versiones: "GitHub independiente; no mezclar commits ni pushes con Jarvi
 
 ---
 
+## 🤖 MARK III — Asistente Personal de IA
+
+```yaml
+tipo: Asistente AI Personal tipo JARVIS de Iron Man
+estado: Código completo — pendiente configurar .env y hacer setup
+fase: Listo para instalación
+ubicacion: "01_Proyectos/Mark III/"
+version: 3.0.0
+created: 2026-05-01
+
+arquitectura:
+  backend: Python + FastAPI + WebSocket
+  frontend: Web UI + Three.js orb reactiva
+  stt: faster-whisper (local)
+  tts: edge-tts (gratuito, voz Roberto Panamá)
+  wake_words: "hola mark", "mark tres", "mark 3"
+  
+proveedores_ia:
+  principal: Claude (Anthropic) — claude-sonnet-4-6
+  secundario: Gemini (Google) — gemini-2.0-flash-exp
+  fallback: Ollama (local, sin internet)
+
+capacidades:
+  - Control de PC: volumen, mute, brillo, bloqueo, apagado
+  - Abrir/cerrar aplicaciones (aliases en español)
+  - Control navegador (Playwright): YouTube, WhatsApp Web
+  - Control VSCode + Antigravity (Claude Code CLI)
+  - Operaciones de archivos
+  - Captura y análisis de pantalla
+  - Búsqueda web (DuckDuckGo, sin API key)
+  - Auto-desarrollo: puede aprender nuevas capacidades
+  - Memoria SQLite con FTS5
+  - Agentes: Planner + Executor + QA
+
+setup:
+  paso_1: "cp .env.example .env → agregar API keys"
+  paso_2: "python setup.py → instala todo"
+  paso_3: "python main.py → abre navegador automáticamente"
+
+notas:
+  - Mark II tenía el problema de correr 2 cosas en paralelo. Mark III usa un solo proceso FastAPI limpio.
+  - La orb Three.js cambia de color según el estado: azul=idle, verde=escuchando, naranja=pensando, cyan=hablando
+  - La voz usa es-PA-RobertoNeural (voz panameña masculina)
+```
+
+---
+
 ## 🤖 Jarvis Millonario (El Sistema Mismo)
 
 ```yaml

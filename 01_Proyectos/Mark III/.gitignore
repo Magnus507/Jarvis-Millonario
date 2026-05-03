@@ -1,0 +1,11 @@
+.env
+.venv/
+data/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.bak
+*.png
+.DS_Store
+actions/learned_*.py

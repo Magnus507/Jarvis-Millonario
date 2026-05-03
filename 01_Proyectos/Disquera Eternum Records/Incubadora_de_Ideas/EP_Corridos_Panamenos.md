@@ -13,7 +13,7 @@ Según mi investigación, aunque existe el "tambor corrido" en el folclore panam
 
 ## 🎼 Estructura del EP (5 Canciones)
 1.  **Brazalete de Oro**: Intro / Poder en la Zone - ✅ Aprobado
-2.  **[Título Pendiente]**: Historia de superación en la city.
+2.  **Bajo el Sol de la City**: Historia de superación en la city - 📝 Borrador
 3.  **[Título Pendiente]**: Relato de campo / Interior (Toque de folclore).
 4.  **[Título Pendiente]**: Romántica / Desamor al estilo corrido panameño.
 5.  **[Título Pendiente]**: Colaboración soñada (Imaginaria).
