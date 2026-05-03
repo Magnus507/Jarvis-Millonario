@@ -1,7 +1,7 @@
 # 🎵 Track #5: La Sombra de la Traición
 **Álbum:** [Título Pendiente] (Proyecto 10 Tracks)
 **Artista:** La Trilogía de Oro
-**Estado:** Borrador Inicial (Suspenso y Drama)
+**Estado:** ✅ Aprobado
 
 ---
 
