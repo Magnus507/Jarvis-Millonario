@@ -22,9 +22,10 @@ Hemos organizado el proyecto en la carpeta `01_Proyectos/App de Citas PTY` con e
 ### Fase 1: Validación Conceptual (Actual)
 *   **Objetivo**: Confirmar que el modelo "Cita por Plan" resuena con el público local.
 *   **Hitos**:
-    *   [ ] Definir nombre oficial (e.g., *Patio*, *Plan507*, *Vente*).
+    *   [x] Definir nombre oficial (Propuesta: **Parking**).
+    *   [x] Crear perfiles de User Personas (Ejecutivo, Creativa, Fit).
     *   [ ] Crear el "Pitch" para locales aliados.
-    *   [ ] Listar los primeros 20 locales estratégicos (Casco, San Francisco).
+    *   [x] Listar los primeros 5 locales estratégicos (Mentiritas Blancas, Padel Hub, etc.).
 
 ### Fase 2: Diseño y Prototipado
 *   **Objetivo**: Visualizar la experiencia de usuario (UX) sin escribir código aún.

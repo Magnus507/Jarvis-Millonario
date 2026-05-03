@@ -1,80 +1,82 @@
-# 🎵 Track #5: El Cerco de la Alfaro
+# 🎵 Track #5: El Cerco de la Alfaro (v2 - Flow Pesado)
 **EP:** Corridos Panameños
 **Artista:** La Trilogía de Oro
-**Estado:** Borrador Inicial (Historia Real)
+**Estado:** Borrador Elevado (Bélico Tumbado)
 
 ---
 
 ## 📝 Concepto
-Basado en los hechos reales de la persecución en la Vía Ricardo J. Alfaro. La tensión de dos hombres rodeados por todo el brazo de la ley en el corazón de la ciudad. El drama, los linces y la resistencia dentro del hierro.
+La crónica de la Tumba Muerto pero con el peso de un corrido de alto calibre. La tensión del encierro, el rugido de los Linces y la jerarquía de los que no se bajan por las buenas. Pura movie de acción en el asfalto panameño.
 
-## 🎸 Ficha Técnica Suno v5.5
-**Style Prompt:** Cinematic Aggressive Corrido, high-tension requinto, fast and piercing brass, heavy tololoche, street-war storytelling, high fidelity, 145bpm.
-**Exclude Style:** soft, melodic, pop, electronic, slow.
+## 🎸 Ficha Técnica Suno v5.5 (Tumbado Bélico)
+**Style Prompt:** Heavy Panamanian Corrido Tumbado, aggressive double-bass slap, piercing surgical trumpets, high-speed requinto solos, gritty street vocals, urban warfare atmosphere, rhythmic and syncopated, 148bpm.
+**Exclude Style:** narration, news, slow, acoustic pop, soft, electronic.
 
 ---
 
 ## 🎼 Letra y Estructura
 
-[Intro: Fast, chaotic Requinto and Siren-like Brass stabs]
-(Grito de guerra) ¡Trilogía de Oro!
-¡Panamá City está caliente!
-¡La Tumba Muerto se paralizó!
+[Intro: Requinto high-speed shredding and aggressive brass stabs]
+(Voz con eco y actitud)
+¡Abran paso que la Alfaro está caliente!
+¡Trilogía de Oro en los controles!
+Aquí no hay reversa, aquí hay es determinación.
+¡Pura movie bélica, cabrones!
 ¡Eternum Records!
 
 **[Verse 1]**
-Empezó en la Vía España, un miércoles de calor
-Un alto que ignoraron por falta de valor
-Los Linces prendieron mecha, no hubo espacio pal error
-Y el motor de la blindada rugió con todo su furor.
-Cruzando por los semáforos, la city fue el escenario
-Cientos de ojos mirando este suceso extraordinario
-Dos sombras en la cabina con un pasado precario
-Uno buscado por muerte, el otro ya era legionario.
+Pisé el acelerador cruzando la Vía España
+La ley se puso alerta, nos tendieron la maraña
+El Lince por el lado, la sirena que me empaña
+Pero el que nace gallo, en cualquier ruedo se ensaña.
+Doblamos por la Alfaro con la escolta por detrás
+Camioneta de respeto, no nos vamos a echar pa' tras
+La gente grababa el drama, la city quería más
+Rodeados por el bloque, pero firmes hasta el gas.
 
 **[Pre-Chorus]**
-Llegando a la Ricardo Alfaro el cerco ya se cerró
-La ley rodeó el acero y el tiempo se detuvo
-Dos horas de pura furia donde el miedo no existió
-Dentro de esa camioneta, el orgullo se sostuvo.
+Un par de horas de encierro, el metal nos protegía
+Fuerzas Especiales listas pa' la artillería
+Buscado por la parca, el destino ya sabía
+Que en la Tumba Muerto el juego se nos acabaría.
 
 **[Chorus]**
-En la Tumba Muerto ruge el eco de la tensión
-Fuerzas Especiales listas para la detonación
-Rodeados por el bloque, sin salida ni opción
-La jerarquía se mide en medio de la presión.
-Blindaje contra las leyes, resistencia y convicción
-Dos hombres contra el sistema en plena persecución.
+El cerco ya está puesto, la Alfaro se paralizó
+El plomo está en el aire y el ambiente se erizó
+No bajamos el vidrio, el sistema se asustó
+Un par de panas locos que la ley no controló.
+Jerarquía en el asfalto, el operativo estalló
+La noticia corre fuerte, pero el mando se sintió.
 
-**[Requinto Solo: Ultra-fast, aggressive, mimicking a high-speed chase]**
+**[Requinto Solo: Fast, aggressive strings, "slapping" bass interlude]**
 
 **[Verse 2]**
-(Voz potente y rápida)
-Oficial, xopa, el operativo ya se activó
-La Unidad de Explosivos al punto ya se acercó
-Querían que se bajaran, pero el vidrio no bajó
-El gas en el interior la partida terminó.
-No son nombres, son historias grabadas en el metal
-Deudas con la justicia, un destino muy fatal
-Del homicidio al fierro, un expediente brutal
-Que se cerró en la Alfaro con un final de cristal.
+(Flow rápido, picadito)
+Oficial, xopa, aquí el mando no se entrega
+Se atrincheró el equipo, la calle no es un juego de pega
+La Técnica de Explosivos al punto ya nos llega
+El gas entró al hierro y la visión se nos ciega.
+Homicidio en la cuenta, un expediente de metal
+Armas y la blanca en un final muy brutal
+Se acabó la corrida, fue una movie magistral
+En el centro de la city, un suceso criminal.
 
 **[Bridge]**
-(Bajo pesado, ritmo seco)
-No importa qué tan rápido corras por el corredor
-Al final del camino te espera el cobrador
-En este ajedrez urbano, solo queda el ganador.
+(Ritmo baja, solo bajo y trompetas bélicas punzantes)
+No importa el blindaje si la ruta se acabó
+El que juega con fuego, el humo lo bautizó.
 
 **[Chorus]**
-En la Tumba Muerto ruge el eco de la tensión
-Fuerzas Especiales listas para la detonación
-Rodeados por el bloque, sin salida ni opción
-La jerarquía se mide en medio de la presión.
-Blindaje contra las leyes, resistencia y convicción
-Dos hombres contra el sistema en plena persecución.
+El cerco ya está puesto, la Alfaro se paralizó
+El plomo está en el aire y el ambiente se erizó
+No bajamos el vidrio, el sistema se asustó
+Un par de panas locos que la ley no controló.
+Jerarquía en el asfalto, el operativo estalló
+La noticia corre fuerte, pero el mando se sintió.
 
 [Outro]
-¡Eso es la calle! ¡La realidad de la Zone!
-Eternum Records...
-Panamá en el mapa...
-(Fin seco con una explosión de metales y percusión)
+¡Eso es de verdad! ¡Cero actuación!
+Eternum Records.
+La Trilogía de Oro.
+¡Panamá en el mapa mundi!
+(Fin seco con trompeta explosiva y acorde de bajo pesado)
