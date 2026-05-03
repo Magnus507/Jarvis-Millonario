@@ -84,7 +84,7 @@ Somos el puente del mundo, dueños de toda la vía.
 
 [Outro]
 [SFX: Sound of a heavy truck air brake, distant police siren fading out]
-Puerto de Cristóbal. Manzanillo. Paitilla.
+Puerto del Atlántico. Toda la costa. Paitilla.
 Toda la ruta es de nosotros.
 La Trilogía de Oro.
 Eternum Records.

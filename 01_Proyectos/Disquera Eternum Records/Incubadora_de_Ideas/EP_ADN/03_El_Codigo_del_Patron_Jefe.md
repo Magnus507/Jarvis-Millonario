@@ -59,7 +59,7 @@ El que organizó la liga pa' nunca más perder.
 
 **[Verse 2 - Rhythmic Boss Flow]**
 [Percussion gets more urban/trap-influenced but slow and steady]
-Oficial, xopa, aquí la jerarquía se respeta
+Oficial, quesopa, aquí la jerarquía se respeta
 El que se sale de la fila conoce mi receta
 Polako es el músculo, Padrino es la faceta
 Y yo soy el cerebro que completa la meta.
