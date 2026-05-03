@@ -22,17 +22,18 @@ Hemos organizado el proyecto en la carpeta `01_Proyectos/App de Citas PTY` con e
 ### Fase 1: Validación Conceptual (Actual)
 *   **Objetivo**: Confirmar que el modelo "Cita por Plan" resuena con el público local.
 *   **Hitos**:
-    *   [x] Definir nombre oficial (Propuesta: **Parking**).
+    *   [x] Definir nombre oficial: **Qxopa?**.
     *   [x] Crear perfiles de User Personas (Ejecutivo, Creativa, Fit).
     *   [ ] Crear el "Pitch" para locales aliados.
-    *   [x] Listar los primeros 5 locales estratégicos (Mentiritas Blancas, Padel Hub, etc.).
+    *   [x] Listar los primeros 5 locales estratégicos.
 
 ### Fase 2: Diseño y Prototipado
 *   **Objetivo**: Visualizar la experiencia de usuario (UX) sin escribir código aún.
 *   **Hitos**:
     *   [ ] Mockups de alta fidelidad para el feed de "Planes".
     *   [ ] Diseño del sistema de "Fotos Progresivas".
-    *   [ ] Definición del "Semáforo de Intenciones".
+    *   [x] Definición del "Semáforo de Intenciones".
+    *   [x] Conceptualización del módulo **"Xopa Directo"** (Omegle-style).
 
 ### Fase 3: Desarrollo del MVP (Beta Cerrada)
 *   **Objetivo**: Construir una versión funcional para un grupo selecto de usuarios.

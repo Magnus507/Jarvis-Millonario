@@ -4,15 +4,11 @@
 
 ---
 
-## 🏷️ Propuestas de Nombre (Brand Name)
+## 🏷️ Nombre Oficial: Qxopa?
 
-1.  **Parking**: (Ganador potencial) Captura la esencia real de Panamá. "¿Qué parking hay?". Evoca planes, grupos y citas sin la presión de "dating".
-2.  **Patio**: Evoca el "patio limoso" pero en versión premium. Cercanía y comunidad.
-3.  **Punto**: "El punto de encuentro". Simple, corto, fácil de recordar.
-4.  **Vente**: Una invitación directa. "Vente pal Casco", "Vente a cenar".
-5.  **Qxopa**: El saludo nacional. Muy fuerte para el mercado local, pero quizás difícil de escalar internacionalmente.
+El nombre es **Qxopa?**. Es directo, local, rompe el hielo y evoca una respuesta inmediata. El signo de interrogación es parte de la identidad visual.
 
-**Tono de Voz:** "Fren, pero con clase". Un lenguaje que usa jerga panameña natural (xopa, fren, parking, pritty) pero con una interfaz limpia y minimalista (Luxe).
+**Tono de Voz:** "Fren, pero con clase". Un lenguaje que usa jerga panameña natural (xopa, fren, parking, pritty) pero con una interfaz limpia, minimalista y de alta gama (Luxe).
 
 ---
 
