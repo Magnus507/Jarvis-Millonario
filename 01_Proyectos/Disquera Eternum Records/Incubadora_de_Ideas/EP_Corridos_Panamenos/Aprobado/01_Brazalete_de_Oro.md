@@ -2,21 +2,21 @@
 **Estado:** Pendiente de Aprobación
 **Género:** Corrido Bélico Panameño
 
-## 🎸 Ficha Técnica Suno v5.5 (Narco Corrido / Corrido Pesado)
-**Style Prompt:** Aggressive Narco Corrido, Corrido Pesado style, Heavy Tuba and Accordion combo, Explosive brass sections (Sinaloense style), Gritty authoritative male vocals, fast 12-string requinto, sharp rhythmic charchetas, 150bpm, Raw street power, High Fidelity.
-**Exclude Style:** 808 bass, trap, electronic, soft, pop, slow, lo-fi, autotune, feminine, melodic vallenato.
+## 🎸 Ficha Técnica Suno v5.5 (Corrido Progresivo Moderno)
+**Style Prompt:** Progressive Corrido, Electric Requinto lead (clean with chorus/delay), heavy melodic Tuba, technical complex rhythm, fast 12-string acoustic rhythm, sharp brass hits, 155bpm, high energy, high fidelity, modern street production.
+**Exclude Style:** 808 bass, trap, electronic, soft, pop, slow, lo-fi, autotune, feminine, shouting, heavy accordion.
 
 ---
 
 ## 🎼 Estructura y Letra
 
-[Intro: Violent Brass stabs and fast melodic Accordion]
-[SFX: Sound of heavy gold chains clinking, exotic V8 engine idling, radio frequency static]
-(Grito inicial con voz cruda y potente) 
-¡Trilogía de Oro! 
-¡De la Zone pal mundo! 
-¡Puro corrido pesado, de Panamá pal mapa!
-¡Colón y San Miguelito activos!
+[Intro: High-speed technical Requinto Solo and melodic Tuba]
+[SFX: Sound of heavy gold chains clinking, exotic V8 engine idling, electronic security beep]
+(Voz profunda, autoritaria, pausada) 
+Trilogía de Oro.
+De la Zone pal mundo.
+Puro corrido progresivo, de Panamá pal mapa.
+Colón y San Miguelito activos.
 
 **[Verse 1 - Narco Style]**
 [Aggressive Tuba and sharp charchetas rhythm]

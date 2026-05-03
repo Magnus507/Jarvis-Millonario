@@ -8,17 +8,17 @@
 ## 📝 Concepto
 Una crónica cinematográfica narrada desde afuera. La cámara sigue la trayectoria de una blindada que paraliza la ciudad. Desde la lluvia de billetes en la Calzada hasta el estruendo de las botas en el PH Naos. Es el relato de un mito urbano visto por los ojos de Panamá.
 
-## 🎸 Ficha Técnica Suno v5.5 (Narco Corrido / Corrido Pesado)
-**Style Prompt:** Aggressive Narco Corrido, Corrido Pesado style, Heavy Tuba bassline, Menacing Accordion melodies, Powerful brass sections, Deep authoritative male vocals (calm, steady, not shouting), Cinematic suspense, 150bpm, High Fidelity, Gritty street-opera texture.
-**Exclude Style:** shouting, screaming, 808 bass, trap, electronic, soft, pop, slow, lo-fi, autotune, drums.
+## 🎸 Ficha Técnica Suno v5.5 (Corrido Progresivo Cinematográfico)
+**Style Prompt:** Progressive Corrido, Electric Requinto lead (clean with chorus/delay), heavy melodic Tuba, technical complex rhythm, fast 12-string acoustic rhythm, sharp brass stabs, dark suspenseful cinematic texture, 155bpm, high fidelity.
+**Exclude Style:** shouting, screaming, 808 bass, trap, electronic, soft, pop, slow, lo-fi, autotune, heavy accordion.
 
 ---
 
 ## 🎼 Letra y Estructura
 
-[Intro: Dark, ambient strings and heavy Tuba]
-[SFX: Sound of a clapperboard "Action!", distant helicopter blades, radio news static]
-(Voz de narrador profundo, pausada, con autoridad)
+[Intro: Dark ambient strings and clean Electric Requinto with delay]
+[SFX: Sound of a clapperboard "Action!", distant helicopter blades, electronic scanner beep]
+(Voz de narrador profundo, pausada, sin gritos)
 Aquel marzo, el reloj de la city se detuvo...
 Una blindada contra el mundo, y el mundo mirando.
 Trilogía de Oro.
