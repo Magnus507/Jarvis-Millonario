@@ -1,7 +1,7 @@
 # 🎵 Track #4: El Trono de la City
 **Álbum:** [Título Pendiente] (Proyecto 10 Tracks)
 **Artista:** La Trilogía de Oro
-**Estado:** Borrador Inicial (Luxe Bélico)
+**Estado:** ✅ Aprobado
 
 ---
 
