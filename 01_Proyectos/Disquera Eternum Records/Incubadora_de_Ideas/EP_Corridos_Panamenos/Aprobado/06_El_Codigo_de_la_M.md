@@ -8,22 +8,24 @@
 ## 📝 Concepto
 Una crónica cinematográfica narrada desde afuera. La cámara sigue la trayectoria de una blindada que paraliza la ciudad. Desde la lluvia de billetes en la Calzada hasta el estruendo de las botas en el PH Naos. Es el relato de un mito urbano visto por los ojos de Panamá.
 
-## 🎸 Ficha Técnica Suno v5.5 (Cinematic Masterpiece)
-**Style Prompt:** Epic Cinematic Corrido, dark atmospheric intro, aggressive brass sections that sound like sirens, fast-paced rhythmic requinto, heavy tololoche, street-opera storytelling, high fidelity, 150bpm.
-**Exclude Style:** soft, melodic, pop, electronic, slow, lo-fi, autotune.
+## 🎸 Ficha Técnica Suno v5.5 (Cinematic Norteño-Banda)
+**Style Prompt:** Epic Cinematic Norteño-Banda, dark suspenseful intro, heavy Tuba bassline, melancholic accordion melodies, aggressive brass stabs (trombones and trumpets), fast rhythmic requinto, street-opera storytelling, high fidelity, 150bpm, gritty cinematic texture.
+**Exclude Style:** 808 bass, trap, electronic, soft, pop, slow, lo-fi, autotune, drums.
 
 ---
 
 ## 🎼 Letra y Estructura
 
-[Intro: Dark, ambient strings that build into a massive brass explosion. Sounds of a news broadcast fading out]
-(Voz de narrador profundo)
+[Intro: Dark, ambient strings and melancholic Accordion]
+[SFX: Sound of a clapperboard "Action!", distant helicopter blades, radio news static]
+(Voz de narrador profundo, con eco de sala de cine)
 Aquel marzo, el reloj de la city se detuvo...
 Una blindada contra el mundo, y el mundo mirando.
 ¡Trilogía de Oro!
 ¡Eternum Records!
 
-**[Verse 1]**
+**[Verse 1 - Norteño Style]**
+[Heavy Tuba and rhythmic Accordion start]
 La cámara enfoca el Mercado de Mariscos
 Un rugido de motor corta el aire en pedazos
 La blindada se abre paso entre el tráfico y los riesgos
@@ -35,13 +37,16 @@ Billetes volando al cielo mientras la ley perseguía.
 Un desfile de locura en medio de la emboscada
 La M firmaba el aire con la fortuna lanzada.
 
-**[Pre-Chorus]**
+**[Pre-Chorus - Suspense Build-up]**
+[Tuba gets more aggressive, camera shutter sounds]
+[SFX: Multiple camera shutter clicks in rapid succession]
 El dron sobrevuela el Naos, el cerco ya está cerrado
 Fuerzas en negro bajando, el objetivo está marcado
 Un broker en el entrepiso mira el drama confundido
 Mientras el hombre de hierro se mantiene imperturbable y erguido.
 
-**[Chorus]**
+**[Chorus - Epic Power Statement]**
+[Full Brass section explosion, heavy Tuba, fast Accordion]
 Es el **Código de la M**, la película de la vía
 Donde el plomo y el dinero escribieron su hidalguía
 Desde Amador hasta el islote, el eco todavía guía
@@ -49,9 +54,11 @@ Una historia entre sombras, una verdad que no fía.
 El PH Naos fue el palco de una captura grabada
 Pero la duda legal es la que queda sembrada.
 
-**[Requinto Solo: Fast, chaotic, strings like a high-speed chase, punctuated by heavy brass stabs]**
+**[Requinto Solo: Fast and chaotic, interplay between Accordion and 12-string Requinto]**
+[SFX: Police radio chatter and distant sirens]
 
-**[Verse 2]**
+**[Verse 2 - Descriptive Flow]**
+[Rhythm slows down slightly, Tuba remains heavy]
 (Flow descriptivo, cámara lenta)
 Miren el plano de cerca, los abogados en fila
 Digan que no hubo oficios, que la justicia vacila
@@ -64,13 +71,16 @@ En la prisión de las olas, respirando la arrogancia
 Del sistema que juzga sin tener la prueba clara
 La M sigue invicta, aunque le miren la cara.
 
-**[Bridge]**
-(Bajo pesado, ritmo denso, sonido de olas de fondo)
+**[Bridge - Atmospheric Breakdown]**
+[Only heavy Tuba and sound of ocean waves]
+[SFX: Sound of waves crashing against rocks]
+(Bajo pesado, ritmo denso)
 El caso Velez-Loor retumba en los tribunales
 Derechos violados en procesos criminales
 La película no acaba, quedan muchos finales.
 
-**[Chorus]**
+**[Chorus - Final Cinematic Explosion]**
+[Max volume Brass and Accordion, intense Tuba]
 Es el **Código de la M**, la película de la vía
 Donde el plomo y el dinero escribieron su hidalguía
 Desde Amador hasta el islote, el eco todavía guía
@@ -79,9 +89,11 @@ El PH Naos fue el palco de una captura grabada
 Pero la duda legal es la que queda sembrada.
 
 [Outro]
+[SFX: Sound of a film reel running out, final clapperboard "Cut!"]
 Corte.
 La M.
 Trilogía de Oro.
 Eternum Records.
 Panamá es una movie de verdad... y nosotros somos la banda sonora.
-(Fin seco con el sonido de una claqueta de cine y una nota de bajo atronadora)
+[Final Heavy Tuba Note]
+[Silence]
