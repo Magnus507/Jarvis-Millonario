@@ -18,7 +18,8 @@ Según mi investigación, aunque existe el "tambor corrido" en el folclore panam
 4.  **Piso 70**: Luxe Bélico / Skyline (Ciudad Moderna) - 📝 Borrador
 5.  **El Cerco de la Alfaro**: Crónica Real (Tumba Muerto) - 📝 Borrador
 6.  **El Código de la M**: Crónica de Amador (The Movie Cut) - ✅ Aprobado
-7.  **El Convoy del Atlántico**: Acción en la Autopista (Logística) - 📝 En Proceso.
+7.  **El Convoy del Atlántico**: Acción en la Autopista (Logística) - ✅ Aprobado
+8.  **El Tapón del Darién**: Poder en la Frontera (Selva de Hierro) - 📝 Propuesto.
 
 ## 🛠 Próximos Pasos
 - [ ] Definir el nombre del artista (o si es un proyecto multi-artista).
