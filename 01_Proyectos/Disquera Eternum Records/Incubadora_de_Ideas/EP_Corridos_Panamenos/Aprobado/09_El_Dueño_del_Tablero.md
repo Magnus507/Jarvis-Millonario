@@ -8,22 +8,24 @@
 ## 📝 Concepto
 El poder absoluto. La vida del Capo que controla la ruta desde el Darién hasta los puertos. Metales pesados, pacas de a cien, cuadros sellados y el respeto que solo el plomo y el oro pueden comprar. Es la oda al logro, al lujo y al peligro de la jerarquía máxima.
 
-## 🎸 Ficha Técnica Suno v5.5
-**Style Prompt:** Aggressive Narco Corrido, heavy rhythmic brass, fast requinto, deep tololoche, sounds of money counting and firearms, gritty male vocals, high-energy street power, 150bpm.
-**Exclude Style:** soft, melodic, pop, electronic, slow, accordion.
+## 🎸 Ficha Técnica Suno v5.5 (Corrido Progresivo de Poder)
+**Style Prompt:** Progressive Corrido, Electric Requinto lead (clean with chorus/delay), heavy melodic Tuba, technical complex rhythm, fast 12-string acoustic rhythm, sharp brass hits, 155bpm, high energy, high fidelity, luxury street power atmosphere, modern production.
+**Exclude Style:** shouting, screaming, 808 bass, trap, electronic, soft, pop, slow, lo-fi, autotune, heavy accordion.
 
 ---
 
 ## 🎼 Letra y Estructura
 
-[Intro: Sound of a money counting machine and a metallic 'click-clack' of a rifle. Aggressive Requinto starts]
-(Voz pesada y lenta)
+[Intro: Sound of a money counting machine, metallic 'click-clack' of a rifle, sound of gold chains clinking]
+[Fast, technical Electric Requinto starts with a melodic Tuba line]
+(Voz pesada, lenta, con autoridad)
 Aquí no se juega a los carritos... aquí se juega al poder.
 Los cuadros tienen mi sello, la ruta tiene mi nombre.
-¡Trilogía de Oro!
-¡Haciendo dinero, no amigos!
+Trilogía de Oro.
+Haciendo dinero, no amigos.
 
-**[Verse 1]**
+**[Verse 1 - Progressive Style]**
+[Sharp technical requinto and heavy tuba rhythm]
 Empecé desde abajo, cargando el hambre y el sueño
 Pero hoy de la ruta soy el único dueño
 Los cuadros bajando, el flete es pequeño
@@ -33,13 +35,15 @@ Los sellos no fallan, se mueve de día
 De a cien son las pacas, pura artillería
 Contando el billete con la mente bien fría.
 
-**[Pre-Chorus]**
+**[Pre-Chorus - Power Build-up]**
+[Requinto gets more technical, brass hits on beat]
 Oro en la cacha, el fúsil no se traba
 Cuidando el imperio que el sistema grababa
 La corta en el cinto, la larga en la brava
 Respeto en la calle, la city me alaba.
 
-**[Chorus]**
+**[Chorus - Strategic Statement]**
+[Full Brass explosion, technical Electric Requinto and heavy Tuba]
 Yo soy el **Dueño del Tablero**, el que mueve la pieza
 Aquí no hay errores, solo hay destreza
 Pacas de a cien coronan mi mesa
@@ -47,10 +51,12 @@ Y el brillo del oro me quita la pereza.
 Logros de acero, billetes de altura
 Dueño del mando y de toda la estructura.
 
-**[Requinto Solo: High speed, aggressive strings, punctuated by brass stabs]**
+**[Requinto Solo: High speed, technical Electric Requinto with complex melodic patterns]**
+[SFX: Sound of a heavy safe door locking]
 
-**[Verse 2]**
-(Flow rápido, estilo teso)
+**[Verse 2 - Progressive Flow]**
+[Rhythm remains fast and steady, authoritative delivery]
+(Flow rítmico, calmado pero contundente)
 Miren mi inventario, los cuadros no mienten
 Colección de naves, un sueldo diario
 Que no lo factura ni un empresario
@@ -60,13 +66,15 @@ La blanca se mueve, el negocio se llama
 Lealtad de sangre, el fuego se inflama
 Y el que se atraviese, la cuenta se trama.
 
-**[Bridge]**
-(Ritmo denso, percusión fuerte)
+**[Bridge - Denouement]**
+[Only heavy Tuba and sound of jewelry clinking]
+(Voz profunda, ritmo denso)
 Cuadros sellados... Pacas contando...
 Escoltas armados... El mando operando...
 Panamá entera... me está respetando.
 
-**[Chorus]**
+**[Chorus - Final Power Statement]**
+[Maximum intensity, technical Requinto and fast Tuba]
 Yo soy el **Dueño del Tablero**, el que mueve la pieza
 Aquí no hay errores, solo hay destreza
 Pacas de a cien coronan mi mesa
@@ -75,8 +83,10 @@ Logros de acero, billetes de altura
 Dueño del mando y de toda la estructura.
 
 [Outro]
-¡Dinero, Poder y Respeto!
+[SFX: Final metallic click-clack, sound of a heavy door closing]
+Dinero, Poder y Respeto.
 La Trilogía de Oro.
 Eternum Records.
-¡Pura movie de verdad!
-(Fin seco con el sonido de un disparo y trompetas épicas)
+Pura movie de verdad.
+[Final Heavy Tuba Note]
+[Silence]
