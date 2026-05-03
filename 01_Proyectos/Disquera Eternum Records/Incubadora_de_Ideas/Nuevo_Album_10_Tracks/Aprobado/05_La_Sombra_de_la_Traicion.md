@@ -8,21 +8,23 @@
 ## 📝 Concepto
 El nudo de la película. El protagonista descubre que un amigo cercano de su infancia (del tiempo del fútbol) está filtrando información a la ley o a sus rivales. Describe el dolor de la decepción, el vacío de la traición y la frialdad necesaria para enfrentar a un "Judas".
 
-## 🎸 Ficha Técnica Suno v5.5 (Dark-Suspense Corrido)
-**Style Prompt:** Dark and somber Corrido Belico, haunting cinematic strings, slow but heavy rhythmic section, weeping requinto, atmospheric intro with heavy rain and phone interference sounds, deep emotional male vocals, 132bpm.
-**Exclude Style:** happy, upbeat, pop, electronic, fast-pop, accordion, autotune.
+## 🎸 Ficha Técnica Suno v5.5 (Corrido Tumbado Dark)
+**Style Prompt:** Modern Corrido Tumbado, dark somber 808 bass, slow urban trap rhythm, weeping 12-string requinto lead, haunting cinematic strings, atmospheric intro with heavy rain and phone static sounds, deep emotional male vocals with pain and coldness, 132bpm, high fidelity.
+**Exclude Style:** shouting, screaming, electronic, pop, soft, upbeat, happy, autotune.
 
 ---
 
 ## 🎼 Letra y Estructura
 
-[Intro: Sonido de lluvia torrencial. Se escucha una grabación de una llamada con interferencia: "...sí, el ático del piso 70, lo veo desde aquí...". Un requinto sombrío y lento empieza a llorar con notas profundas]
-(Voz dolida, fría)
+[Intro: Sonido de lluvia torrencial. Se escucha una grabación de una llamada con interferencia: "...sí, el ático del piso 70, lo veo desde aquí..."]
+[A somber, slow Requinto starts with a deep, pulsating 808 bass]
+(Voz dolida, fría, pausada)
 Las balas duelen en el cuerpo...
 Pero la traición duele en el alma.
 Comiste en mi mesa, Judas.
 
-**[Verse 1]**
+**[Verse 1 - Dark Tumbado]**
+[Weeping requinto and heavy slow 808 kicks]
 Había un ruido extraño en la línea del destino
 Un sabor amargo se mezclaba con el vino
 Cabos sueltos que encontré por el camino
@@ -51,7 +53,8 @@ Porque en este negocio confiar es ser profano.
 El Judas se sentó a cenar en mi banquete
 Pero olvidó que el mando no acepta el juguete.
 
-**[Requinto Solo: Haunting, slow, and dark strings that sound like a cry of betrayal]**
+**[Requinto Solo: Haunting and slow 12-string guitar, sounding like a cry of betrayal with dark trap percussion]**
+[SFX: Sound of a distant thunder clap]
 
 **[Verse 3]**
 (Flow más seco y autoritario)
@@ -82,4 +85,5 @@ La lealtad no tiene precio.
 Pero la traición sí tiene una factura.
 La Trilogía de Oro.
 Eternum Records.
-(Fin lento con un golpe de trueno y el sonido de una pistola armándose)
+[SFX: Final gun cocking sound, sound of rain intensifying]
+[Silence]
