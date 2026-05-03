@@ -1,7 +1,7 @@
 # 🎵 Track #2: El Bautizo del Asfalto
 **Álbum:** [Título Pendiente] (Proyecto 10 Tracks)
 **Artista:** La Trilogía de Oro
-**Estado:** Borrador Inicial (La Iniciación)
+**Estado:** ✅ Aprobado
 
 ---
 
