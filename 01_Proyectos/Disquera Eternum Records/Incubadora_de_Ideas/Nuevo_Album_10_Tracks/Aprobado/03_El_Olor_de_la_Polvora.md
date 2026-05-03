@@ -8,20 +8,24 @@
 ## 📝 Concepto
 Acción total. Una banda rival intenta eliminar al "nuevo" en una emboscada nocturna. El track describe el caos de la balacera, el sonido de los fúsiles y la primera vez que el protagonista tiene que derramar sangre para defender su lugar. Es el punto de máxima adrenalina del primer acto de la película.
 
-## 🎸 Ficha Técnica Suno v5.5 (War-Bélico)
-**Style Prompt:** Aggressive and chaotic Corrido Belico, fast and piercing brass sections, ultra-fast requinto, sound effects of gunfire (AK-47, Glock), screeching tires, shouting, intense cinematic atmosphere, high fidelity, 155bpm.
-**Exclude Style:** soft, melodic, pop, electronic, slow, autotune.
+## 🎸 Ficha Técnica Suno v5.5 (Narco Corrido Pesado)
+**Style Prompt:** Aggressive Narco Corrido, Heavy Tuba and Menacing Accordion combo, Explosive brass sections (Sinaloense style), Gritty authoritative male vocals (calm, steady, not shouting), fast 12-string requinto, sharp charchetas, gunfire SFX (automatic rifles, handguns), 155bpm, high fidelity, gritty street texture.
+**Exclude Style:** shouting, screaming, 808 bass, trap, electronic, soft, pop, slow, lo-fi, autotune, drums.
 
 ---
 
 ## 🎼 Letra y Estructura
 
-[Intro: Un dembow se escucha a lo lejos como en una fiesta de barrio. Risas. De pronto, el chirrido violento de llantas y una ráfaga de fúsil automática que rompe todo el ritmo]
-(Grito en medio del caos)
-¡Abajo todo el mundo! ¡Saca el hierro, carajo!
-¡Aquí se decide quién es quién!
+[Intro: Un dembow se escucha a lo lejos como en una fiesta de barrio. Risas]
+[SFX: Violent screeching of tires, sound of an automatic rifle burst shattering glass]
+[Aggressive Brass stabs and fast melodic Accordion start]
+(Voz profunda, pausada, con autoridad)
+Abajo todo el mundo. Saca el hierro.
+Aquí se decide quién es quién.
+Trilogía de Oro.
 
-**[Verse 1]**
+**[Verse 1 - Narco Style]**
+[Heavy Tuba and sharp charchetas rhythm]
 La noche estaba tranquila, el parking apenas empezaba
 Cuando una sombra en la esquina la movie nos arruinaba
 Dos camionetas oscuras de frente nos apuntaban
@@ -50,7 +54,8 @@ El que no baja el fúsil y se gana el respeto entero.
 Disparos que retumban, la muerte me saludó
 Pero hoy no era mi día, y el hierro me respondió.
 
-**[Requinto Solo: Ultra-fast, aggressive, mimicking a chaotic shootout with brass punctuations]**
+**[Requinto Solo: Ultra-fast, aggressive 12-string acoustic strings, punctuated by explosive brass hits]**
+[SFX: Sound of empty brass casings falling on pavement]
 
 **[Verse 3]**
 (Cámara lenta, voz pesada)
@@ -77,8 +82,9 @@ Disparos que retumban, la muerte me saludó
 Pero hoy no era mi día, y el hierro me respondió.
 
 [Outro]
-¡Eso es de verdad! ¡Aquí no hay cuentos!
+Eso es de verdad. Aquí no hay cuentos.
 El que la debe, la paga.
 La Trilogía de Oro.
 Eternum Records.
-(Fin explosivo con una ráfaga final de fúsil y un golpe de tambor seco)
+[Final Heavy Tuba and Brass Hit]
+[Silence]
