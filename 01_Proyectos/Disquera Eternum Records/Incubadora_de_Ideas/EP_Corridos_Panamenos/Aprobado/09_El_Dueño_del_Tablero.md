@@ -1,7 +1,7 @@
 # 🎵 Track #9: El Dueño del Tablero
 **EP:** Corridos Panameños
 **Artista:** La Trilogía de Oro
-**Estado:** Borrador Inicial (Narco-Style)
+**Estado:** ✅ Aprobado
 
 ---
 
@@ -51,7 +51,7 @@ Dueño del mando y de toda la estructura.
 
 **[Verse 2]**
 (Flow rápido, estilo teso)
-Oficial, xopa, miren mi inventario
+Miren mi inventario, los cuadros no mienten
 Colección de naves, un sueldo diario
 Que no lo factura ni un empresario
 Yo soy el que manda en este escenario.
