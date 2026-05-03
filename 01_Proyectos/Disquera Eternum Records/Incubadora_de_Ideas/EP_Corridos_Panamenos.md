@@ -15,7 +15,7 @@ Según mi investigación, aunque existe el "tambor corrido" en el folclore panam
 1.  **Brazalete de Oro**: Intro / Poder en la Zone - ✅ Aprobado
 2.  **Bajo el Sol de la City**: Historia de superación en la city - 📝 Borrador (No Aprobado)
 3.  **Sombrero de Lado**: Relato de campo / Interior (Toque de folclore) - 📝 Borrador
-4.  **[Título Pendiente]**: Romántica / Desamor al estilo corrido panameño.
+4.  **Piso 70**: Luxe Bélico / Skyline (Ciudad Moderna) - 📝 Borrador
 5.  **[Título Pendiente]**: Colaboración soñada (Imaginaria).
 
 ## 🛠 Próximos Pasos
