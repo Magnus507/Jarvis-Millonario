@@ -8,20 +8,24 @@
 ## 📝 Concepto
 La consecuencia de la traición. El equipo táctico llega al Penthouse y el protagonista debe escapar en una maniobra de alto riesgo. Persecución por la Avenida Balboa y el Corredor Sur. Describe la tensión de estar acorralado, el sonido de los helicópteros y la destreza al volante para desaparecer en la oscuridad.
 
-## 🎸 Ficha Técnica Suno v5.5 (High-Speed Action)
-**Style Prompt:** Fast and aggressive Corrido Belico, chaotic brass sections like sirens, ultra-fast requinto mimicking a car engine, sound effects of helicopters and police radios, screeching tires, intense cinematic energy, 158bpm.
-**Exclude Style:** soft, melodic, pop, electronic, slow, autotune.
+## 🎸 Ficha Técnica Suno v5.5 (Corrido Tumbado de Acción)
+**Style Prompt:** Modern Corrido Tumbado, high-speed 808 bass rhythm, urban trap percussion, ultra-fast 12-string requinto lead, brass sections like sirens, sound effects of helicopters and police radios, screeching tires, intense cinematic energy, male vocals with adrenaline and authority, 158bpm, high fidelity, modern street texture.
+**Exclude Style:** shouting, screaming, electronic, pop, soft, slow, lo-fi, autotune.
 
 ---
 
 ## 🎼 Letra y Estructura
 
-[Intro: Una alarma de incendio resuena en un edificio. Sonido de hélices de helicóptero muy cerca. Una radio policial se filtra: "¡Unidad Alfa, aseguren el perímetro! ¡Sujeto en movimiento!". Un requinto frenético estalla con una velocidad suicida]
-(Grito desesperado pero firme)
-¡Quemen los teléfonos! ¡Al sótano, ahora!
-¡Si nos vamos, nos vamos con ruido!
+[Intro: Una alarma de incendio resuena en un edificio. Sonido de hélices de helicóptero muy cerca]
+[SFX: Police radio filter: "¡Unidad Alfa, aseguren el perímetro! ¡Sujeto en movimiento!"]
+[A frantic, high-speed Requinto starts with an aggressive 808 bass pulse]
+(Voz firme, acelerada, bajo presión)
+Quemen los teléfonos. Al sótano, ahora.
+Si nos vamos, nos vamos con ruido.
+Trilogía de Oro.
 
-**[Verse 1]**
+**[Verse 1 - Action Tumbado]**
+[High-speed requinto and rapid 808 bass kicks]
 El ático se puso caliente en un segundo
 Las luces rojas y azules rodearon mi mundo
 Bajé por el montacargas, suspiro profundo
@@ -77,8 +81,9 @@ La traición me puso el dedo, pero el motor me salvó
 Y el rastro del 10 en el viento se perdió.
 
 [Outro]
-Me vieron pasar... pero no me agarraron.
-La próxima vez, traigan más refuerzos.
+[SFX: Sound of a helicopter's propellers fading out, crickets and jungle sounds starting]
+Perdieron la señal.
+Bienvenidos a la selva.
 La Trilogía de Oro.
 Eternum Records.
-(Fin seco con el sonido de un auto derrapando y un portazo en medio del silencio)
+[Silence]
