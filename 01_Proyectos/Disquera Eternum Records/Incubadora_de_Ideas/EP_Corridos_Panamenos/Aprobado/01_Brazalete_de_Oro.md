@@ -2,19 +2,24 @@
 **Estado:** Pendiente de Aprobación
 **Género:** Corrido Bélico Panameño
 
-#### Ficha Técnica Suno v5.5:
-**Style Prompt:** Modern Corrido Belico, aggressive brass, rhythmic requinto, heavy tololoche bass, high-energy male vocals, street storytelling, sharp trumpets, high fidelity, 142bpm.
-**Exclude Style:** drums, electronic, techno, pop, soft, synth, low fidelity, monotone, feminine, autotune.
+## 🎸 Ficha Técnica Suno v5.5 (Tumbado Bélico - Peso Pluma Style)
+**Style Prompt:** Modern Tumbado Bélico, Peso Pluma style husky vocals, heavy tololoche bass, sharp charchetas rhythm, dual trumpets in harmonies (Sinaloa style brass), rhythmic 12-string requinto, high energy, high fidelity, 148bpm, live performance vibe.
+**Exclude Style:** 808 bass, trap, electronic, techno, pop, soft, synth, autotune, feminine.
 
 ---
 
-#### Estructura y Letra:
+## 🎼 Estructura y Letra
 
-[Intro: Explosive Brass and Fast Requinto]
-(Grito inicial) ¡Trilogía de Oro! ¡De la Zone pal mundo! 
+[Intro: High-pitched Trumpets and fast 12-string Requinto]
+[SFX: Sound of heavy gold chains clinking, exotic V8 engine idling]
+(Grito inicial con voz rasposa) 
+¡Trilogía de Oro! 
+¡De la Zone pal mundo! 
+¡Pura Doble P style, pero de Panamá!
 ¡Colón y San Miguelito activos!
 
-**[Verse 1]**
+**[Verse 1 - Tumbado Style]**
+[Sharp charchetas and heavy tololoche rhythm]
 Bajando por la Calle 7, el puerto está caliente
 Los fletes ya llegaron, lo sabe toda mi gente
 En Altos de los Lagos el que manda es el respeto
@@ -24,13 +29,15 @@ Donde el Kid con su canela la marea controlaba
 Aquí no hay espacio para sapos ni culebras
 El que fantasmea en Barraza, solito se quiebra.
 
-**[Pre-Chorus]**
+**[Pre-Chorus - Building Energy]**
+[Trumpets accentuating the end of each line]
 De Samaria bajé con el hambre de victoria
 Escribiendo en el asfalto mi propia pinche historia
 Los satélites reportan desde el Valle hasta el Chorrillo
 Que el negocio está seguro, ya le sacamos el brillo.
 
-**[Chorus]**
+**[Chorus - Power Tumbado]**
+[Full brass section, energetic delivery, rhythmic tololoche]
 Cargando el **Brazalete de Oro**, peso de jerarquía
 Respeto en cada bloque, mando en toda la vía
 En San Miguelito ruge el motor del modificado
@@ -38,10 +45,12 @@ Por el Corredor Sur, el destino está trazado
 Oro macizo en el cuello, plomo pal que se vire
 Yo soy el que controla, no hay nadie que me tire.
 
-**[Requinto Solo: High speed, aggressive]**
+**[Requinto Solo: 12-string acoustic guitar, fast melodic runs]**
+[SFX: Radio walkie-talkie beep and short static]
 
-**[Verse 2]**
-Oficial, xopa, aquí el mando no se hereda
+**[Verse 2 - Tumbado Flow]**
+[Rhythmic acoustic strumming, brass hits]
+Oficial, que sopa, aquí el mando no se hereda
 Se gana en la vereda, se gana en la moneda
 Me mencionan en Curundú, me respetan en San Miguel
 Mi palabra es un contrato, grabada sobre la piel
@@ -50,14 +59,16 @@ Aquí no estamos actuando, esto no es ningún show
 Los contenedores bajan, la logística es perfecta
 La ruta está segura, la línea está directa.
 
-**[Bridge]**
-(Voz profunda, ritmo baja un poco el tempo del bajo)
+**[Bridge - Acoustic Breakdown]**
+[Only tololoche and requinto, intimate but strong]
+(Voz profunda, estilo Peso Pluma)
 Recordando a los caídos, brindando por los vivos
 En este ajedrez del ghetto, somos los más agresivos
 Sin santos ni milagros, solo mi propia destreza
 El brazalete brilla, corona mi cabeza.
 
-**[Chorus]**
+**[Chorus - Final Explosion]**
+[Max volume trumpets, heavy charchetas and tololoche]
 Cargando el **Brazalete de Oro**, peso de jerarquía
 Respeto en cada bloque, mando en toda la vía
 En San Miguelito ruge el motor del modificado
@@ -65,8 +76,9 @@ Por el Corredor Sur, el destino está trazado
 Oro macizo en el cuello, plomo pal que se vire
 Yo soy el que controla, no hay nadie que me tire.
 
-**[Outro]**
+[Outro]
+[SFX: Car speeding away with a loud exhaust pop]
 Eternum Records...
 Panamá en el mapa...
 ¡Corridos de Puerto! ¡Corridos de la Zone!
-(Fin seco con trompeta explosiva)
+(Cierre con un solo golpe seco de trompeta y requinto)
