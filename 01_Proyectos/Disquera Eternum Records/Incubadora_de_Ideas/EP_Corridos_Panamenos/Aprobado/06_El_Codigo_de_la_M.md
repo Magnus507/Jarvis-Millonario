@@ -8,24 +8,24 @@
 ## 📝 Concepto
 Una crónica cinematográfica narrada desde afuera. La cámara sigue la trayectoria de una blindada que paraliza la ciudad. Desde la lluvia de billetes en la Calzada hasta el estruendo de las botas en el PH Naos. Es el relato de un mito urbano visto por los ojos de Panamá.
 
-## 🎸 Ficha Técnica Suno v5.5 (Cinematic Norteño-Banda)
-**Style Prompt:** Epic Cinematic Norteño-Banda, dark suspenseful intro, heavy Tuba bassline, melancholic accordion melodies, aggressive brass stabs (trombones and trumpets), fast rhythmic requinto, street-opera storytelling, high fidelity, 150bpm, gritty cinematic texture.
-**Exclude Style:** 808 bass, trap, electronic, soft, pop, slow, lo-fi, autotune, drums.
+## 🎸 Ficha Técnica Suno v5.5 (Narco Corrido / Corrido Pesado)
+**Style Prompt:** Aggressive Narco Corrido, Corrido Pesado style, Heavy Tuba bassline, Menacing Accordion melodies, Powerful brass sections, Deep authoritative male vocals (calm, steady, not shouting), Cinematic suspense, 150bpm, High Fidelity, Gritty street-opera texture.
+**Exclude Style:** shouting, screaming, 808 bass, trap, electronic, soft, pop, slow, lo-fi, autotune, drums.
 
 ---
 
 ## 🎼 Letra y Estructura
 
-[Intro: Dark, ambient strings and melancholic Accordion]
+[Intro: Dark, ambient strings and heavy Tuba]
 [SFX: Sound of a clapperboard "Action!", distant helicopter blades, radio news static]
-(Voz de narrador profundo, con eco de sala de cine)
+(Voz de narrador profundo, pausada, con autoridad)
 Aquel marzo, el reloj de la city se detuvo...
 Una blindada contra el mundo, y el mundo mirando.
-¡Trilogía de Oro!
-¡Eternum Records!
+Trilogía de Oro.
+Eternum Records.
 
-**[Verse 1 - Norteño Style]**
-[Heavy Tuba and rhythmic Accordion start]
+**[Verse 1 - Narco Style]**
+[Heavy Tuba and aggressive Accordion start]
 La cámara enfoca el Mercado de Mariscos
 Un rugido de motor corta el aire en pedazos
 La blindada se abre paso entre el tráfico y los riesgos
@@ -37,7 +37,7 @@ Billetes volando al cielo mientras la ley perseguía.
 Un desfile de locura en medio de la emboscada
 La M firmaba el aire con la fortuna lanzada.
 
-**[Pre-Chorus - Suspense Build-up]**
+**[Pre-Chorus - Power Build-up]**
 [Tuba gets more aggressive, camera shutter sounds]
 [SFX: Multiple camera shutter clicks in rapid succession]
 El dron sobrevuela el Naos, el cerco ya está cerrado
@@ -45,7 +45,7 @@ Fuerzas en negro bajando, el objetivo está marcado
 Un broker en el entrepiso mira el drama confundido
 Mientras el hombre de hierro se mantiene imperturbable y erguido.
 
-**[Chorus - Epic Power Statement]**
+**[Chorus - Heavy Power Statement]**
 [Full Brass section explosion, heavy Tuba, fast Accordion]
 Es el **Código de la M**, la película de la vía
 Donde el plomo y el dinero escribieron su hidalguía
@@ -54,11 +54,11 @@ Una historia entre sombras, una verdad que no fía.
 El PH Naos fue el palco de una captura grabada
 Pero la duda legal es la que queda sembrada.
 
-**[Requinto Solo: Fast and chaotic, interplay between Accordion and 12-string Requinto]**
+**[Requinto Solo: Fast and aggressive 12-string Requinto and Accordion interplay]**
 [SFX: Police radio chatter and distant sirens]
 
-**[Verse 2 - Descriptive Flow]**
-[Rhythm slows down slightly, Tuba remains heavy]
+**[Verse 2 - Narco Style]**
+[Rhythm remains heavy and steady, authoritative delivery]
 (Flow descriptivo, cámara lenta)
 Miren el plano de cerca, los abogados en fila
 Digan que no hubo oficios, que la justicia vacila
@@ -71,15 +71,15 @@ En la prisión de las olas, respirando la arrogancia
 Del sistema que juzga sin tener la prueba clara
 La M sigue invicta, aunque le miren la cara.
 
-**[Bridge - Atmospheric Breakdown]**
+**[Bridge - Heavy Breakdown]**
 [Only heavy Tuba and sound of ocean waves]
 [SFX: Sound of waves crashing against rocks]
-(Bajo pesado, ritmo denso)
+(Bajo pesado, voz baja y amenazante)
 El caso Velez-Loor retumba en los tribunales
 Derechos violados en procesos criminales
 La película no acaba, quedan muchos finales.
 
-**[Chorus - Final Cinematic Explosion]**
+**[Chorus - Final Heavy Explosion]**
 [Max volume Brass and Accordion, intense Tuba]
 Es el **Código de la M**, la película de la vía
 Donde el plomo y el dinero escribieron su hidalguía
@@ -89,7 +89,7 @@ El PH Naos fue el palco de una captura grabada
 Pero la duda legal es la que queda sembrada.
 
 [Outro]
-[SFX: Sound of a film reel running out, final clapperboard "Cut!"]
+[SFX: Sound of a film reel running out, final clapperboard "Cut"]
 Corte.
 La M.
 Trilogía de Oro.
