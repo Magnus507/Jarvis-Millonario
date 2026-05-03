@@ -1,7 +1,7 @@
 # 🎵 Track #6: Código Rojo (El Gran Escape)
 **Álbum:** [Título Pendiente] (Proyecto 10 Tracks)
 **Artista:** La Trilogía de Oro
-**Estado:** Borrador Inicial (Acción y Persecución)
+**Estado:** ✅ Aprobado
 
 ---
 
