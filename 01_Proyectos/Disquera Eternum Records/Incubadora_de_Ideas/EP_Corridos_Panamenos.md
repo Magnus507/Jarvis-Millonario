@@ -16,7 +16,9 @@ Según mi investigación, aunque existe el "tambor corrido" en el folclore panam
 2.  **Bajo el Sol de la City**: Historia de superación en la city - 📝 Borrador (No Aprobado)
 3.  **Sombrero de Lado**: Relato de campo / Interior (Toque de folclore) - 📝 Borrador
 4.  **Piso 70**: Luxe Bélico / Skyline (Ciudad Moderna) - 📝 Borrador
-5.  **[Título Pendiente]**: Colaboración soñada (Imaginaria).
+5.  **El Cerco de la Alfaro**: Crónica Real (Tumba Muerto) - 📝 Borrador
+6.  **El Código de la M**: Crónica de Amador (The Movie Cut) - ✅ Aprobado
+7.  **El Convoy del Atlántico**: Acción en la Autopista (Logística) - 📝 En Proceso.
 
 ## 🛠 Próximos Pasos
 - [ ] Definir el nombre del artista (o si es un proyecto multi-artista).
