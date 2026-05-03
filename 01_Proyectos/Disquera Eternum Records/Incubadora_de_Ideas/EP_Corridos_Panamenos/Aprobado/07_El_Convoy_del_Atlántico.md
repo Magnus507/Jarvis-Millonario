@@ -8,16 +8,16 @@
 ## 📝 Concepto
 La conexión entre los dos mares. El poder de Colón y la City unidos por la autopista. Un convoy blindado que no se detiene por nada, escoltando mercancía de alto valor bajo la protección de la Trilogía de Oro. Pura velocidad, puertos y jerarquía logística.
 
-## 🎸 Ficha Técnica Suno v5.5 (Corrido Progresivo Logístico)
-**Style Prompt:** Progressive Corrido, Electric Requinto lead (clean with chorus/delay), heavy melodic Tuba, technical complex rhythm, fast 12-string acoustic rhythm, sharp brass hits, fast-paced highway atmosphere, 155bpm, high energy, high fidelity, modern street production.
-**Exclude Style:** shouting, screaming, 808 bass, trap, electronic, soft, pop, slow, lo-fi, autotune, heavy accordion.
+## 🎸 Ficha Técnica Suno v5.5 (Narco Corrido Pesado)
+**Style Prompt:** Aggressive Narco Corrido, Heavy Tuba and Menacing Accordion combo, Explosive brass sections, Gritty authoritative male vocals (calm, steady, not shouting), fast 12-string requinto, sharp charchetas, 150bpm, High Fidelity, gritty street texture.
+**Exclude Style:** shouting, screaming, 808 bass, trap, electronic, soft, pop, slow, lo-fi, autotune, drums.
 
 ---
 
 ## 🎼 Letra y Estructura
 
 [Intro: Sound of a heavy turbo-diesel engine starting, high-end SUV engine revving, highway wind noise]
-[Fast, technical Electric Requinto starts with melodic Tuba]
+[Aggressive Brass stabs and fast melodic Accordion start]
 (Voz profunda, pausada, autoritaria)
 De mar a mar.
 Del Atlántico para la City.

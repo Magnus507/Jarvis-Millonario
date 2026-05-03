@@ -8,16 +8,16 @@
 ## 📝 Concepto
 El poder absoluto. La vida del Capo que controla la ruta desde el Darién hasta los puertos. Metales pesados, pacas de a cien, cuadros sellados y el respeto que solo el plomo y el oro pueden comprar. Es la oda al logro, al lujo y al peligro de la jerarquía máxima.
 
-## 🎸 Ficha Técnica Suno v5.5 (Corrido Progresivo de Poder)
-**Style Prompt:** Progressive Corrido, Electric Requinto lead (clean with chorus/delay), heavy melodic Tuba, technical complex rhythm, fast 12-string acoustic rhythm, sharp brass hits, 155bpm, high energy, high fidelity, luxury street power atmosphere, modern production.
-**Exclude Style:** shouting, screaming, 808 bass, trap, electronic, soft, pop, slow, lo-fi, autotune, heavy accordion.
+## 🎸 Ficha Técnica Suno v5.5 (Narco Corrido Pesado)
+**Style Prompt:** Aggressive Narco Corrido, Corrido Pesado style, Heavy Tuba and Menacing Accordion combo, Explosive brass sections, Gritty authoritative male vocals (calm, steady, not shouting), fast 12-string requinto, sharp charchetas, 150bpm, Raw street power, High Fidelity.
+**Exclude Style:** shouting, screaming, 808 bass, trap, electronic, soft, pop, slow, lo-fi, autotune, drums.
 
 ---
 
 ## 🎼 Letra y Estructura
 
 [Intro: Sound of a money counting machine, metallic 'click-clack' of a rifle, sound of gold chains clinking]
-[Fast, technical Electric Requinto starts with a melodic Tuba line]
+[Aggressive Brass stabs and fast melodic Accordion start]
 (Voz pesada, lenta, con autoridad)
 Aquí no se juega a los carritos... aquí se juega al poder.
 Los cuadros tienen mi sello, la ruta tiene mi nombre.
