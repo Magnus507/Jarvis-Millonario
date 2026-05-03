@@ -1,55 +1,79 @@
-# 🎵 Track #3: Sombrero de Lado
+# 🎵 Track #3: Sombrero de Lado (v2 - Tierra Brava)
 **EP:** Corridos Panameños
 **Artista:** La Trilogía de Oro
-**Estado:** Borrador Inicial / Conceptualización
+**Estado:** Listo para Suno v5.5 (Bélico del Interior)
 
 ---
 
 ## 📝 Concepto
-Un homenaje a las raíces del interior de Panamá. La historia de un hombre que, aunque tiene éxito en la capital o el extranjero, nunca olvida su finca, su ganado y el respeto que se ganó en el pueblo. Es la fusión definitiva entre el corrido bélico y el alma del campo panameño.
+El poder no solo está en la ciudad. En la Sierra y el Llano el silencio se respeta y las cuentas se pagan con sangre. Este es el corrido del "Cholo Bélico" que controla la ruta de David hasta Divisa.
 
-## 🎸 Identidad Sonora (Suno v5.5)
-**Prompt:** `Panamanian Interiorano Corrido, fast accordion riffs, deep acoustic bass, heavy string picking, 130 BPM, rural atmosphere, clear folk-influenced vocals, aggressive but organic.`
+## 🎸 Ficha Técnica Suno v5.5
+**Style Prompt:** Hardcore Corrido Belico, aggressive brass, high-speed requinto, heavy tololoche, street/rural storytelling, sharp trumpets, high fidelity, 145bpm.
+**Exclude Style:** soft, acoustic pop, vallenato, accordion (slow), electronic, drums, autotune.
 
 ---
 
-## 🎼 Letra (Borrador)
+## 🎼 Letra y Estructura
 
-`[Intro]`
-`(Inicia con un floreo de acordeón típico panameño que de repente se vuelve rítmico estilo corrido)`
-"Desde las tierras altas hasta el llano...
-Donde el respeto se gana con sudor y palabra.
-¡Trilogía de Oro!
-Eternum Records."
+`[Intro: Fast Requinto and Heavy Brass stabs]`
+(Grito potente) ¡Trilogía de Oro! ¡De la Sierra al Asfalto!
+¡Chiriquí, Los Santos y el llano activo, cabrones!
+¡Eternum Records!
 
 `[Verse 1]`
-`Crecí entre el monte y el aroma del café`
-`Donde la palabra vale más de lo que ves`
-`Mi viejo me dijo: "Hijo, nunca pierda la fe"`
-`Pero cargue su machete pa' lo que venga después.`
-`Ahora los caballos ya no son de cuatro patas`
-`Son de puro hierro y de pintura que no opaca`
-`Pero sigo siendo el mismo que la tierra destaca`
-`El que con el sombrero de lado, a cualquiera lo opaca.`
+`Bajando por la cordillera, el ganado viene en fila`
+`Pero no todo es vacuno lo que el viejo aquí vigila`
+`En la finca de David no se duerme ni se vacila`
+`El que entra sin permiso, solito se aniquila.`
+`De la Villa a Las Tablas, la marea está calmada`
+`Porque saben que en el cruce mi palabra está sellada`
+`Cargando el sombrero fino, la mirada bien pesada`
+`Aquí el mando es de nosotros, no se acepta una jugada.`
+
+`[Pre-Chorus]`
+`Desde el Cristo de Aguadulce reportan el movimiento`
+`La logística en la sierra no conoce el sentimiento`
+`En un Porsche por la ruta, desafiando hasta el viento`
+`Haciendo sonar los cuernos, marcando nuestro momento.`
 
 `[Chorus]`
-`Sombrero de lado, la mirada bien fija`
-`No hay camino malo que este cholo no elija`
-`Respeto al patrón, pero nadie me mangonea` (me dirige/manda)
-`En mi propia tierra soy el que la marea.`
-`Vengo del interior, de la sangre guerrera`
-`Donde el honor se defiende hasta que uno muera.`
+`Cargando el **Sombrero de Lado**, marca de jerarquía`
+`Mando en toda la trocha, respeto en la vía`
+`En el Valle de la Luna ruge mi artillería`
+`Por la Interamericana, trazada la geografía.`
+`Fino de cuatro pedradas, plomo pal que se vire`
+`Yo soy el cholo del mando, no hay nadie que me tire.`
+
+`[Requinto Solo: High speed, aggressive strings]`
 
 `[Verse 2]`
-`Me ven en la city, creen que no sé nada`
-`Pero traigo el colmillo de la sierra sagrada`
-`Un brindis con seco por la gente de mi entrada`
-`Que aunque tenga millones, no olvido mi morada.`
-`Chiriquí, Los Santos, Herrera y Veraguas`
-`Llevo el orgullo seco, no le temo ni a las aguas`
-`Trilogía de Oro, repartiendo las fraguas.`
+`Xopa compa, aquí el terreno no es pa' cualquiera`
+`Se respeta el potrero, se respeta la frontera`
+`En Penonomé me buscan, me esperan en la vereda`
+`Mi nombre pesa en el monte, pesa más que la moneda.`
+`Como decía el abuelo, el silencio es un escudo`
+`Pero el que traiciona al grupo, se le aprieta más el nudo`
+`Los caballos son de hierro, el motor suena rudo`
+`Controlando la provincia, este pacto no es mudo.`
+
+`[Bridge]`
+`(Bajo pesado, ritmo seco)`
+`Brindando con Seco Herrerano por los que no están`
+`En este juego de campo, pocos son los que quedarán`
+`Sin rezos ni amuletos, solo el hierro y el afán`
+`La corona es de paja, pero el brillo es de titán.`
+
+`[Chorus]`
+`Cargando el **Sombrero de Lado**, marca de jerarquía`
+`Mando en toda la trocha, respeto en la vía`
+`En el Valle de la Luna ruge mi artillería`
+`Por la Interamericana, trazada la geografía.`
+`Fino de cuatro pedradas, plomo pal que se vire`
+`Yo soy el cholo del mando, no hay nadie que me tire.`
 
 `[Outro]`
-`Pura gente de campo... pura gente de valor.`
-`Eternum Records.`
-`Panamá 507.`
+`Eternum Records...`
+`¡Corridos de Sierra! ¡Corridos de la Frontera!`
+`¡La Trilogía de Oro en el control!`
+`(Cierre seco con trompeta explosiva)`
