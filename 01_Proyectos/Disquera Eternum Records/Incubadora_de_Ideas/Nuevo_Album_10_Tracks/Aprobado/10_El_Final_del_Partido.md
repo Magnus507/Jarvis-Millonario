@@ -8,21 +8,23 @@
 ## 📝 Concepto
 El cierre de la historia. El protagonista reflexiona sobre su trayectoria desde la cancha de tierra hasta el trono de cristal. Ya tiene el dinero, ya cobró las deudas, pero se da cuenta de que el fútbol era el único juego donde no había sangre. Pone a su madre a salvo y se queda solo con su imperio, mientras el ciclo de la calle comienza de nuevo con otro niño en el barrio.
 
-## 🎸 Ficha Técnica Suno v5.5 (Melodic-Reflection Corrido)
-**Style Prompt:** Sad and melodic Acoustic Corrido, weeping requinto solo, soft bass, atmospheric sounds of a fading stadium crowd and wind, emotional and tired male vocals, cinematic closure, high fidelity, 128bpm.
-**Exclude Style:** aggressive, fast, brassy, chaotic, pop, electronic, autotune.
+## 🎸 Ficha Técnica Suno v5.5 (Corrido Tumbado Melancólico)
+**Style Prompt:** Modern Corrido Tumbado, soft and melodic 808 bass rhythm, slow urban trap percussion, weeping 12-string requinto lead, emotional and tired male vocals with bitter wisdom, atmospheric sounds of a fading stadium crowd and wind, cinematic closure, 128bpm, high fidelity.
+**Exclude Style:** shouting, screaming, aggressive, fast, brassy, chaotic, pop, electronic, autotune.
 
 ---
 
 ## 🎼 Letra y Estructura
 
-[Intro: El eco lejano de una multitud gritando "¡Gol!" que se pierde en el sonido del viento de un balcón. Un requinto acústico, lento y melancólico, empieza a sonar con notas cristalinas]
-(Voz cansada, con sabiduría amarga)
+[Intro: El eco lejano de una multitud gritando "¡Gol!" que se pierde en el sonido del viento de un balcón]
+[A weeping, slow Requinto starts with a soft, deep 808 bass pulse]
+(Voz cansada, con sabiduría amarga, pausada)
 Gané la copa... pero perdí el equipo.
 Tengo los bolsillos llenos, pero el corazón...
 El corazón se quedó en la cancha de tierra.
 
-**[Verse 1]**
+**[Verse 1 - Sad Tumbado]**
+[Melodic requinto and soft slow 808 kicks]
 Aquí en el ático el silencio es lo que más suena
 Ya no hay disparos, ya se acabó la condena
 Tengo diamantes que brillan más que mi pena
@@ -51,7 +53,8 @@ Y en la red de la vida, el destino me goleó.
 Tengo el mando del mundo, tengo el trono de cristal
 Pero daría todo por volver al campo original.
 
-**[Requinto Solo: Long, emotional, and melodic solo that sounds like a goodbye to the past]**
+**[Requinto Solo: Long, emotional, and melodic 12-string guitar solo, sounding like a goodbye to the past with slow trap percussion]**
+[SFX: Sound of wind intensifying, distant city noise]
 
 **[Verse 3]**
 (Cámara lenta, voz profunda)
@@ -78,9 +81,10 @@ Tengo el mando del mundo, tengo el trono de cristal
 Pero daría todo por volver al campo original.
 
 [Outro]
+[SFX: Sound of a final referee's whistle fading into total silence]
 Se acabó el tiempo.
 El marcador quedó a favor del poder.
 Pero en contra de la paz.
 La Trilogía de Oro.
 Eternum Records.
-(Fin muy lento con el sonido de un silbato final y el sonido del viento hasta el silencio total)
+[Silence]

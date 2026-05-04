@@ -8,21 +8,24 @@
 ## 📝 Concepto
 El clímax bélico de la película. El enfrentamiento final entre la organización del protagonista y el cartel rival que financió la traición. Describe una batalla urbana en Panamá, con bloqueos de calles, blindadas y fuego pesado. Es el duelo final entre los dos hombres que se disputan el trono de la capital.
 
-## 🎸 Ficha Técnica Suno v5.5 (Epic War-Bélico)
-**Style Prompt:** Extremely aggressive and epic Corrido Belico, massive brass sections, chaotic but rhythmic requinto, sound effects of heavy gunfire (.50 cal), explosions, shouting, cinematic war atmosphere, high fidelity, 160bpm.
-**Exclude Style:** soft, melodic, pop, electronic, slow, autotune.
+## 🎸 Ficha Técnica Suno v5.5 (Corrido Tumbado Épico)
+**Style Prompt:** Modern Corrido Tumbado, aggressive and epic 808 bass rhythm, urban war trap percussion, ultra-fast 12-string requinto lead, massive cinematic brass sections, sound effects of heavy gunfire (.50 cal) and explosions, intense authoritative male vocals with power, 160bpm, high fidelity, modern street texture.
+**Exclude Style:** shouting, screaming, electronic, pop, soft, slow, lo-fi, autotune.
 
 ---
 
 ## 🎼 Letra y Estructura
 
-[Intro: Una explosión ensordecedora rompe el silencio. Se escuchan ráfagas de fúsil pesado y gritos de mando: "¡Aseguren el perímetro! ¡Nadie sale vivo!". Un requinto frenético y épico estalla con una fuerza brutal]
-(Grito de guerra)
-¡Dijeron que el 10 estaba acabado!
-¡Pero aquí les traigo su pesadilla!
-¡Trilogía de Oro... al ataque!
+[Intro: Una explosión ensordecedora rompe el silencio. Se escuchan ráfagas de fúsil pesado]
+[SFX: Sound of heavy .50 caliber machine gun fire, distant shouting through a radio]
+[A frantic, epic Requinto starts with a massive, rhythmic 808 bass explosion]
+(Voz profunda, autoritaria, con eco de poder)
+Dijeron que el 10 estaba acabado.
+Pero aquí les traigo su pesadilla.
+Trilogía de Oro... al ataque.
 
-**[Verse 1]**
+**[Verse 1 - War Tumbado]**
+[Ultra-fast requinto and massive 808 bass kicks]
 Bloqueamos las avenidas, el asfalto se prendió
 El equipo del Darién con todo les respondió
 Blindadas contra blindadas, la city se estremeció
@@ -78,8 +81,9 @@ El trono no se comparte, solo tiene un lugar
 Y hoy el muchacho de la vereda vino a reclamar.
 
 [Outro]
+[SFX: Final distant explosion, sound of epic cinematic trumpets of victory]
 Se acabó el juego.
 Ahora solo queda la leyenda.
 La Trilogía de Oro.
 Eternum Records.
-(Fin explosivo con el sonido de una explosión lejana y trompetas de victoria épica)
+[Silence]
