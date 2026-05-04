@@ -1,7 +1,7 @@
-# 🎵 Track #4: El Trono de la City
-**Álbum:** [Título Pendiente] (Proyecto 10 Tracks)
-**Artista:** La Trilogía de Oro
-**Estado:** ✅ Aprobado
+# ?? Track #4: El Trono de la City
+**�lbum:** Expediente 10: El Precio del Sue�o (Proyecto 10 Tracks)
+**Artista:** La Trilog�a de Oro
+**Estado:** ? Aprobado
 
 ---
 
@@ -88,6 +88,7 @@ El sueño se hizo grande, el éxito es abismal.
 [SFX: Sound of a luxury elevator dinging and doors closing]
 La vista es buena desde aquí.
 Pero la guardia nunca se baja.
-La Trilogía de Oro.
+La Trilog�a de Oro.
 Eternum Records.
 [Silence]
+

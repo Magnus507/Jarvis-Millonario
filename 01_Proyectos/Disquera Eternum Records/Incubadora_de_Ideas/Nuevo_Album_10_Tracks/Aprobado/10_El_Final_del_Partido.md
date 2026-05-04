@@ -1,7 +1,7 @@
-# 🎵 Track #10: El Final del Partido
-**Álbum:** [Título Pendiente] (Proyecto 10 Tracks)
-**Artista:** La Trilogía de Oro
-**Estado:** ✅ Aprobado
+# ?? Track #10: El Final del Partido
+**�lbum:** Expediente 10: El Precio del Sue�o (Proyecto 10 Tracks)
+**Artista:** La Trilog�a de Oro
+**Estado:** ? Aprobado
 
 ---
 
@@ -85,6 +85,7 @@ Pero daría todo por volver al campo original.
 Se acabó el tiempo.
 El marcador quedó a favor del poder.
 Pero en contra de la paz.
-La Trilogía de Oro.
+La Trilog�a de Oro.
 Eternum Records.
 [Silence]
+

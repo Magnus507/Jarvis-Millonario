@@ -1,7 +1,7 @@
-# üéµ Track #8: La Cuenta de Cobro
-**√Ålbum:** [T√≠tulo Pendiente] (Proyecto 10 Tracks)
-**Artista:** La Trilog√≠a de Oro
-**Estado:** ‚úÖ Aprobado
+# ?? Track #8: La Cuenta de Cobro
+**¡lbum:** Expediente 10: El Precio del SueÒo (Proyecto 10 Tracks)
+**Artista:** La TrilogÌa de Oro
+**Estado:** ? Aprobado
 
 ---
 
@@ -87,6 +87,7 @@ Y el Judas muri√≥... sin ser nunca un hombre.
 [SFX: Final silenced gunshot, sound of the motorcycle speeding away]
 Deuda pagada.
 Honor recuperado.
-La Trilog√≠a de Oro.
+La TrilogÌa de Oro.
 Eternum Records.
 [Silence]
+

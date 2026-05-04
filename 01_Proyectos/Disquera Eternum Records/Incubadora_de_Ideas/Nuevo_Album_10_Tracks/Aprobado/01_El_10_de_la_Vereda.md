@@ -1,7 +1,7 @@
-# ğŸµ Track #1: El 10 de la Vereda
-**Ãlbum:** [TÃ­tulo Pendiente] (Proyecto 10 Tracks)
-**Artista:** La TrilogÃ­a de Oro
-**Estado:** âœ… Aprobado
+# ?? Track #1: El 10 de la Vereda
+**Álbum:** Expediente 10: El Precio del Sueño (Proyecto 10 Tracks)
+**Artista:** La Trilogía de Oro
+**Estado:** ? Aprobado
 
 ---
 
@@ -87,6 +87,7 @@ El dinero llegÃ³, pero la muerte me sigue.
 [SFX: Sound of a stadium crowd fading out, final referee's whistle, distant gunshot]
 Hay partidos que no se ganan en 90 minutos.
 Se ganan sobreviviendo.
-La TrilogÃ­a de Oro.
+La Trilogía de Oro.
 Eternum Records.
 [Silence]
+

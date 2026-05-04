@@ -1,7 +1,7 @@
-# 🎵 Track #3: El Olor de la Pólvora
-**Álbum:** [Título Pendiente] (Proyecto 10 Tracks)
-**Artista:** La Trilogía de Oro
-**Estado:** ✅ Aprobado
+# ?? Track #3: El Olor de la Pólvora
+**�lbum:** Expediente 10: El Precio del Sue�o (Proyecto 10 Tracks)
+**Artista:** La Trilog�a de Oro
+**Estado:** ? Aprobado
 
 ---
 
@@ -22,7 +22,7 @@ Acción total. Una banda rival intenta eliminar al "nuevo" en una emboscada noct
 (Voz profunda, pausada, con autoridad)
 Abajo todo el mundo. Saca el hierro.
 Aquí se decide quién es quién.
-Trilogía de Oro.
+Trilog�a de Oro.
 
 **[Verse 1 - War Tumbado]**
 [Ultra-fast requinto and heavy 808 bass kicks]
@@ -89,6 +89,7 @@ Pero hoy no era mi día, y el hierro me respondió.
 [SFX: Final automatic rifle burst, sound of a car speeding away]
 Eso es de verdad. Aquí no hay cuentos.
 El que la debe, la paga.
-La Trilogía de Oro.
+La Trilog�a de Oro.
 Eternum Records.
 [Silence]
+

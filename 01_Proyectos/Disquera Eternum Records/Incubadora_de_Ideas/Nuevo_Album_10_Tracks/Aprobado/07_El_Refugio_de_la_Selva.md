@@ -1,7 +1,7 @@
-# üéµ Track #7: El Refugio de la Selva
-**√Ålbum:** [T√≠tulo Pendiente] (Proyecto 10 Tracks)
-**Artista:** La Trilog√≠a de Oro
-**Estado:** ‚úÖ Aprobado
+# ?? Track #7: El Refugio de la Selva
+**¡lbum:** Expediente 10: El Precio del SueÒo (Proyecto 10 Tracks)
+**Artista:** La TrilogÌa de Oro
+**Estado:** ? Aprobado
 
 ---
 
@@ -88,6 +88,7 @@ Y el trago del traidor va a ser puro veneno.
 [SFX: Sound of rain intensifying, final silenced gunshot]
 El que se fue, regresa.
 Y el que se qued√≥, se arrepiente.
-La Trilog√≠a de Oro.
+La TrilogÌa de Oro.
 Eternum Records.
 [Silence]
+

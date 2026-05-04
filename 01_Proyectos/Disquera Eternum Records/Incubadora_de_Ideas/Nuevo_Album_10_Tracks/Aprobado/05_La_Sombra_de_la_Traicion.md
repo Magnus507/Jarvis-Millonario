@@ -1,7 +1,7 @@
-# 🎵 Track #5: La Sombra de la Traición
-**Álbum:** [Título Pendiente] (Proyecto 10 Tracks)
-**Artista:** La Trilogía de Oro
-**Estado:** ✅ Aprobado
+# ?? Track #5: La Sombra de la Traición
+**�lbum:** Expediente 10: El Precio del Sue�o (Proyecto 10 Tracks)
+**Artista:** La Trilog�a de Oro
+**Estado:** ? Aprobado
 
 ---
 
@@ -83,7 +83,8 @@ Pero olvidó que el mando no acepta el juguete.
 [Outro]
 La lealtad no tiene precio.
 Pero la traición sí tiene una factura.
-La Trilogía de Oro.
+La Trilog�a de Oro.
 Eternum Records.
 [SFX: Final gun cocking sound, sound of rain intensifying]
 [Silence]
+

@@ -1,7 +1,7 @@
-# 🎵 Track #2: El Bautizo del Asfalto
-**Álbum:** [Título Pendiente] (Proyecto 10 Tracks)
-**Artista:** La Trilogía de Oro
-**Estado:** ✅ Aprobado
+# ?? Track #2: El Bautizo del Asfalto
+**�lbum:** Expediente 10: El Precio del Sue�o (Proyecto 10 Tracks)
+**Artista:** La Trilog�a de Oro
+**Estado:** ? Aprobado
 
 ---
 
@@ -87,6 +87,7 @@ Y un soldado de la calle en su lugar despertó.
 [SFX: Sound of a car door slamming shut, tires screeching as the car speeds away]
 Ya no hay vuelta atrás.
 El juego empezó.
-La Trilogía de Oro.
+La Trilog�a de Oro.
 Eternum Records.
 [Silence]
+

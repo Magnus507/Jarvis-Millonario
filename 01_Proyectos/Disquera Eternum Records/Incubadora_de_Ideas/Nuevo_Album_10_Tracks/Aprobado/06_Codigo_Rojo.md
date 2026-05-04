@@ -1,7 +1,7 @@
-# 🎵 Track #6: Código Rojo (El Gran Escape)
-**Álbum:** [Título Pendiente] (Proyecto 10 Tracks)
-**Artista:** La Trilogía de Oro
-**Estado:** ✅ Aprobado
+# ?? Track #6: Código Rojo (El Gran Escape)
+**�lbum:** Expediente 10: El Precio del Sue�o (Proyecto 10 Tracks)
+**Artista:** La Trilog�a de Oro
+**Estado:** ? Aprobado
 
 ---
 
@@ -22,7 +22,7 @@ La consecuencia de la traición. El equipo táctico llega al Penthouse y el prot
 (Voz firme, acelerada, bajo presión)
 Quemen los teléfonos. Al sótano, ahora.
 Si nos vamos, nos vamos con ruido.
-Trilogía de Oro.
+Trilog�a de Oro.
 
 **[Verse 1 - Action Tumbado]**
 [High-speed requinto and rapid 808 bass kicks]
@@ -84,6 +84,7 @@ Y el rastro del 10 en el viento se perdió.
 [SFX: Sound of a helicopter's propellers fading out, crickets and jungle sounds starting]
 Perdieron la señal.
 Bienvenidos a la selva.
-La Trilogía de Oro.
+La Trilog�a de Oro.
 Eternum Records.
 [Silence]
+
