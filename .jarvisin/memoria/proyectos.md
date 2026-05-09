@@ -100,14 +100,15 @@ completado:
   - Concepto UI/UX completo
   - Mockups de Timeline y Buscador
   - Propuesta de monetización
+  - Validación legal (Ley 81 de Panamá — completada)
 
 pendiente:
-  - Validación legal (Ley 81 de Panamá — protección datos médicos)
+  - Implementar flujo de consentimiento explícito en UI
   - Validar con 5 médicos + 10 pacientes
   - Prototipo interactivo (Figma o código)
   - Stack final confirmado
 
-bloqueo_actual: "Pendiente revisión Ley 81 Panamá"
+bloqueo_actual: ninguno
 monetizacion: "Freemium médicos + Gratis pacientes + % por cita pagada"
 ```
 
