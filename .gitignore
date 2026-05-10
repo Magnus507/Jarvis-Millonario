@@ -43,3 +43,10 @@ Thumbs.db
 .pytest_cache/
 **/.pytest_cache/
 
+# Node/Frontend dependencies and massive folders
+node_modules/
+**/node_modules/
+.next/
+**/.next/
+.cache/
+**/.cache/

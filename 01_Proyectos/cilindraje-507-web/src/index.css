@@ -9,6 +9,9 @@
   --text-muted: #a0a0a0;
   --glass: rgba(255, 255, 255, 0.03);
   --border: rgba(255, 255, 255, 0.1);
+  
+  --success: #10B981;
+  --info: #3B82F6;
 }
 
 * {
@@ -22,15 +25,17 @@ body {
   background-color: var(--bg);
   color: var(--text);
   overflow-x: hidden;
+  line-height: 1.5;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
   font-family: 'Inter', sans-serif;
   font-weight: 900;
   text-transform: uppercase;
   letter-spacing: -0.02em;
 }
 
+/* UI Elements */
 .asphalt-texture {
   position: fixed;
   top: 0;
@@ -40,17 +45,34 @@ h1, h2, h3 {
   background-image: url('https://www.transparenttextures.com/patterns/asphalt.png');
   opacity: 0.05;
   pointer-events: none;
-  z-index: 1;
+  z-index: -1;
 }
 
 .container {
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 2rem;
-  position: relative;
-  z-index: 2;
+  width: 100%;
 }
 
+/* Typography */
+.neon-text {
+  color: var(--primary);
+  text-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
+}
+
+.text-muted { color: var(--text-muted); }
+.text-primary { color: var(--primary); }
+.text-center { text-align: center; }
+.text-xl { font-size: 1.25rem; }
+.text-2xl { font-size: 1.5rem; }
+.text-3xl { font-size: 1.875rem; }
+.text-6xl { font-size: 4rem; }
+@media (min-width: 768px) {
+  .text-6xl { font-size: 6rem; }
+}
+
+/* Components */
 .glass-card {
   background: var(--glass);
   backdrop-filter: blur(12px);
@@ -59,17 +81,24 @@ h1, h2, h3 {
   padding: 2rem;
 }
 
-.btn-primary {
-  background: linear-gradient(45deg, var(--primary), var(--secondary));
-  color: #000;
+.btn {
   padding: 1rem 2rem;
   border-radius: 50px;
   font-weight: 700;
   text-decoration: none;
-  display: inline-block;
-  transition: transform 0.2s, box-shadow 0.2s;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  transition: all 0.2s ease;
   border: none;
   cursor: pointer;
+  font-family: 'Outfit', sans-serif;
+}
+
+.btn-primary {
+  background: linear-gradient(45deg, var(--primary), var(--secondary));
+  color: #000;
 }
 
 .btn-primary:hover {
@@ -77,7 +106,157 @@ h1, h2, h3 {
   box-shadow: 0 10px 20px rgba(255, 215, 0, 0.3);
 }
 
-.neon-text {
+.btn-outline {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text);
+}
+
+.btn-outline:hover {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+/* Layout Utilities */
+.flex { display: flex; }
+.flex-col { display: flex; flex-direction: column; }
+.items-center { align-items: center; }
+.justify-between { justify-content: space-between; }
+.justify-center { justify-content: center; }
+.gap-2 { gap: 0.5rem; }
+.gap-4 { gap: 1rem; }
+.gap-6 { gap: 1.5rem; }
+.gap-8 { gap: 2rem; }
+
+.grid { display: grid; }
+.grid-cols-1 { grid-template-columns: 1fr; }
+@media (min-width: 768px) {
+  .grid-cols-2 { grid-template-columns: repeat(2, 1fr); }
+  .grid-cols-3 { grid-template-columns: repeat(3, 1fr); }
+  .grid-cols-4 { grid-template-columns: repeat(4, 1fr); }
+  .md-col-span-2 { grid-column: span 2 / span 2; }
+}
+
+/* Spacing */
+.py-6 { padding-top: 1.5rem; padding-bottom: 1.5rem; }
+.py-12 { padding-top: 3rem; padding-bottom: 3rem; }
+.py-20 { padding-top: 5rem; padding-bottom: 5rem; }
+.mb-2 { margin-bottom: 0.5rem; }
+.mb-4 { margin-bottom: 1rem; }
+.mb-6 { margin-bottom: 1.5rem; }
+.mb-8 { margin-bottom: 2rem; }
+.mb-12 { margin-bottom: 3rem; }
+.mt-6 { margin-top: 1.5rem; }
+.mx-auto { margin-left: auto; margin-right: auto; }
+
+/* Navbar */
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--border);
+}
+
+.nav-links {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+}
+
+.nav-link {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 0.875rem;
+  transition: color 0.2s;
+}
+
+.nav-link:hover, .nav-link.active {
   color: var(--primary);
-  text-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
+}
+
+/* Inputs */
+.input-group {
+  margin-bottom: 1rem;
+}
+
+.input-label {
+  display: block;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-muted);
+  margin-bottom: 0.5rem;
+  margin-left: 0.5rem;
+}
+
+.input-wrapper {
+  position: relative;
+}
+
+.input-icon {
+  position: absolute;
+  left: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: rgba(255, 215, 0, 0.5);
+}
+
+.form-input {
+  width: 100%;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 0.75rem 1rem 0.75rem 3rem;
+  color: var(--text);
+  outline: none;
+  transition: border-color 0.2s;
+  font-family: 'Outfit', sans-serif;
+}
+
+.form-input:focus {
+  border-color: rgba(255, 215, 0, 0.5);
+}
+
+/* Leaflet Map overrides */
+.leaflet-container {
+  border-radius: 20px;
+  border: 1px solid var(--border);
+  height: 400px;
+  width: 100%;
+  z-index: 10;
+}
+.leaflet-popup-content-wrapper {
+  background: var(--surface);
+  color: var(--text);
+  border-radius: 12px;
+  border: 1px solid var(--border);
+}
+.leaflet-popup-tip {
+  background: var(--surface);
+}
+
+/* Auth View */
+.auth-container {
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.auth-card {
+  width: 100%;
+  max-width: 400px;
+}
+
+/* Footer */
+.site-footer {
+  text-align: center;
+  padding: 4rem 0;
+  color: var(--text-muted);
+  font-size: 0.75rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  border-top: 1px solid var(--border);
+  margin-top: 4rem;
 }

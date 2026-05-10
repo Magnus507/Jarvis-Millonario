@@ -1,123 +1,219 @@
 import React from 'react';
-import { Trophy, MapPin, QrCode, Zap, ChevronRight, ShieldCheck } from 'lucide-react';
-import { motion } from 'framer-motion';
+import { Routes, Route, Link, useNavigate, useLocation } from 'react-router-dom';
+import { 
+  Trophy, MapPin, QrCode, Zap, ChevronRight, 
+  ShieldCheck, Lock, Mail, BarChart3, PlusCircle
+} from 'lucide-react';
+import { motion, AnimatePresence } from 'framer-motion';
+import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 
-function App() {
-  const leaderboard = [
-    { rank: 1, user: "RiderPTY", points: 4250, bike: "Yamaha R1" },
-    { rank: 2, user: "MotoGirl_507", points: 3890, bike: "Kawasaki Ninja" },
-    { rank: 3, user: "PanamaCruiser", points: 3520, bike: "Harley Iron 883" },
-  ];
+// --- COMPONENTES DE UI REUTILIZABLES ---
+const GlassCard = ({ children, className = "" }) => (
+  <div className={`glass-card ${className}`}>
+    {children}
+  </div>
+);
+
+const InputField = ({ label, icon: Icon, type = "text", placeholder }) => (
+  <div className="input-group">
+    <label className="input-label">{label}</label>
+    <div className="input-wrapper">
+      <div className="input-icon">
+        <Icon size={18} />
+      </div>
+      <input 
+        type={type} 
+        placeholder={placeholder}
+        className="form-input"
+      />
+    </div>
+  </div>
+);
+
+// --- VISTAS ---
+
+const LandingView = () => {
+  const navigate = useNavigate();
+  return (
+    <div className="container py-20 text-center">
+      <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+        <span className="neon-text mb-4" style={{display: 'block', fontWeight: 'bold', tracking: '0.1em', fontSize: '0.875rem'}}>PANAMÁ 2026</span>
+        <h1 className="text-6xl mb-6">Cilindraje <span className="neon-text">507</span></h1>
+        <p className="text-xl text-muted mx-auto mb-12" style={{maxWidth: '42rem'}}>
+          El juego nacional donde tu moto es tu control. Escanea stickers, sube en el ranking y domina las provincias.
+        </p>
+        <div className="flex justify-center gap-4">
+          <button onClick={() => navigate('/login')} className="btn btn-primary">
+            Empezar el juego <ChevronRight size={20} />
+          </button>
+          <button onClick={() => navigate('/login')} className="btn btn-outline">
+            Ingresar
+          </button>
+        </div>
+      </motion.div>
+    </div>
+  );
+};
+
+const LoginView = () => {
+  const navigate = useNavigate();
+  return (
+    <div className="container auth-container">
+      <motion.div initial={{ scale: 0.9, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} className="auth-card">
+        <GlassCard>
+          <div className="text-center mb-8">
+            <h2 className="text-3xl mb-2">Bienvenido <span className="text-primary">Rider</span></h2>
+            <p className="text-muted" style={{fontSize: '0.875rem'}}>Ingresa tus credenciales para continuar</p>
+          </div>
+          <InputField label="Email" icon={Mail} type="email" placeholder="tu@email.com" />
+          <InputField label="Contraseña" icon={Lock} type="password" placeholder="••••••••" />
+          <button onClick={() => navigate('/dashboard')} className="btn btn-primary mt-6" style={{width: '100%'}}>Entrar al Garage</button>
+          <p className="text-center mt-6 text-muted" style={{fontSize: '0.875rem'}}>
+            ¿No tienes cuenta? <span className="text-primary" style={{cursor: 'pointer'}}>Regístrate aquí</span>
+          </p>
+        </GlassCard>
+      </motion.div>
+    </div>
+  );
+};
+
+const DashboardView = () => {
+  // Panamá center coords
+  const position = [8.9824, -79.5199]; 
+  
+  return (
+    <div className="container py-12">
+      <div className="grid grid-cols-1 md-grid-cols-4 gap-6 mb-12">
+        <GlassCard className="text-center">
+          <Trophy className="mx-auto mb-2 text-primary" size={32} />
+          <p className="input-label">Puntos Totales</p>
+          <h3 className="text-3xl">4,250</h3>
+        </GlassCard>
+        <GlassCard className="text-center">
+          <MapPin className="mx-auto mb-2" style={{color: 'var(--info)'}} size={32} />
+          <p className="input-label">Stickers Escaneados</p>
+          <h3 className="text-3xl">12/45</h3>
+        </GlassCard>
+        <GlassCard className="text-center">
+          <Zap className="mx-auto mb-2" style={{color: '#F97316'}} size={32} />
+          <p className="input-label">Rango Global</p>
+          <h3 className="text-3xl">#14</h3>
+        </GlassCard>
+        <GlassCard className="text-center">
+          <ShieldCheck className="mx-auto mb-2" style={{color: 'var(--success)'}} size={32} />
+          <p className="input-label">Provincias</p>
+          <h3 className="text-3xl">3/9</h3>
+        </GlassCard>
+      </div>
+
+      <div className="grid grid-cols-1 md-grid-cols-3 gap-8">
+        <div className="md-col-span-2">
+          <h2 className="text-2xl mb-6 flex items-center gap-2"><MapPin className="text-primary" /> Mapa de la Temporada</h2>
+          <div className="glass-card" style={{padding: '0', overflow: 'hidden'}}>
+            <MapContainer center={position} zoom={13} scrollWheelZoom={false}>
+              <TileLayer
+                attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+                url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+              />
+              <Marker position={position}>
+                <Popup>
+                  Punto de Escaneo Oficial. <br /> Taller Moto507.
+                </Popup>
+              </Marker>
+            </MapContainer>
+          </div>
+        </div>
+        <div>
+          <h2 className="text-2xl mb-6 flex items-center gap-2"><QrCode className="text-primary" /> Escaneo Rápido</h2>
+          <GlassCard>
+            <div className="flex items-center justify-center mb-6" style={{aspectRatio: '1', background: 'rgba(255,255,255,0.05)', borderRadius: '1rem', border: '2px dashed var(--border)'}}>
+              <QrCode size={64} style={{color: 'rgba(255,255,255,0.2)'}} />
+            </div>
+            <button className="btn btn-primary" style={{width: '100%'}}>Abrir Cámara</button>
+          </GlassCard>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+const AdminView = () => (
+  <div className="container py-12">
+    <div className="flex items-center justify-between mb-12">
+      <h2 className="text-3xl">Admin <span className="text-primary">Control</span></h2>
+      <button className="btn btn-primary"><PlusCircle size={20}/> Nuevo Sticker QR</button>
+    </div>
+    <div className="grid grid-cols-1 md-grid-cols-3 gap-8">
+      <GlassCard className="md-col-span-2">
+        <h3 className="text-xl mb-6 flex items-center gap-2"><BarChart3 size={20}/> Actividad en Tiempo Real</h3>
+        <div className="flex-col gap-4">
+          {[1,2,3].map(i => (
+            <div key={i} className="flex items-center justify-between mb-4" style={{padding: '1rem', background: 'rgba(255,255,255,0.05)', borderRadius: '12px'}}>
+              <div className="flex items-center gap-4">
+                <div className="flex items-center justify-center text-primary" style={{width: '40px', height: '40px', background: 'rgba(255, 215, 0, 0.2)', borderRadius: '50%', fontSize: '0.75rem', fontWeight: 'bold'}}>R{i}</div>
+                <div>
+                  <p style={{fontSize: '0.875rem', fontWeight: 'bold'}}>Rider_{i+100} escaneó "Mirador Campana"</p>
+                  <p className="text-muted" style={{fontSize: '0.625rem'}}>Hace 2 minutos • GPS Validado ✅</p>
+                </div>
+              </div>
+              <div className="text-primary" style={{fontWeight: 'bold'}}>+50 pts</div>
+            </div>
+          ))}
+        </div>
+      </GlassCard>
+      <GlassCard>
+        <h3 className="text-xl mb-6">Estado Temporada</h3>
+        <div style={{padding: '1rem', background: 'rgba(16, 185, 129, 0.1)', border: '1px solid rgba(16, 185, 129, 0.2)', borderRadius: '12px', marginBottom: '1rem'}}>
+          <p className="input-label" style={{color: 'var(--success)'}}>Activa</p>
+          <p className="text-xl">Temporada Génesis</p>
+        </div>
+        <p className="text-muted" style={{fontSize: '0.875rem'}}>Días restantes: 142</p>
+        <hr className="mb-6 mt-6" style={{borderColor: 'var(--border)'}} />
+        <button className="btn btn-outline" style={{width: '100%'}}>Gestionar Premios</button>
+      </GlassCard>
+    </div>
+  </div>
+);
+
+// --- APP PRINCIPAL ---
+
+export default function App() {
+  const location = useLocation();
 
   return (
     <div className="min-h-screen">
       <div className="asphalt-texture"></div>
-
-      {/* Hero Section */}
-      <header className="container pt-20 pb-32">
-        <motion.div 
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8 }}
-          className="text-center"
-        >
-          <span className="neon-text font-bold tracking-widest text-sm mb-4 block">PANAMÁ 2026</span>
-          <h1 className="text-6xl md:text-8xl mb-6 leading-tight">
-            Cilindraje <span className="neon-text">507</span>
-          </h1>
-          <p className="text-xl text-muted max-w-2xl mx-auto mb-10 text-gray-400">
-            El primer juego nacional para moteros. Recorre Panamá, escanea stickers QR en lugares épicos y compite por premios reales.
-          </p>
-          <div className="flex justify-center gap-4">
-            <button className="btn-primary flex items-center gap-2">
-              Registrar mi moto <ChevronRight size={20} />
-            </button>
-            <button className="px-8 py-4 rounded-full border border-white/20 font-bold hover:bg-white/5 transition-all">
-              Ver Mapa
-            </button>
-          </div>
-        </motion.div>
-      </header>
-
-      {/* How it works */}
-      <section className="container py-24">
-        <div className="grid md:grid-cols-3 gap-8">
-          <motion.div whileHover={{ scale: 1.05 }} className="glass-card">
-            <div className="w-12 h-12 bg-yellow-500/20 rounded-lg flex items-center justify-center mb-6">
-              <MapPin className="text-yellow-500" />
-            </div>
-            <h3 className="text-xl mb-4">Explora</h3>
-            <p className="text-gray-400">Encuentra stickers oficiales en miradores, talleres y puntos turísticos de todo el país.</p>
-          </motion.div>
-
-          <motion.div whileHover={{ scale: 1.05 }} className="glass-card">
-            <div className="w-12 h-12 bg-orange-500/20 rounded-lg flex items-center justify-center mb-6">
-              <QrCode className="text-orange-500" />
-            </div>
-            <h3 className="text-xl mb-4">Escanea</h3>
-            <p className="text-gray-400">Valida tu ubicación mediante GPS y escanea el QR único para acumular puntos.</p>
-          </motion.div>
-
-          <motion.div whileHover={{ scale: 1.05 }} className="glass-card">
-            <div className="w-12 h-12 bg-blue-500/20 rounded-lg flex items-center justify-center mb-6">
-              <Trophy className="text-blue-500" />
-            </div>
-            <h3 className="text-xl mb-4">Gana</h3>
-            <p className="text-gray-400">Sube en el ranking nacional y participa por una moto nueva al final de la temporada.</p>
-          </motion.div>
-        </div>
-      </section>
-
-      {/* Leaderboard Mockup */}
-      <section className="container py-24">
-        <div className="glass-card max-w-2xl mx-auto">
-          <div className="flex items-center justify-between mb-8">
-            <h2 className="text-2xl flex items-center gap-3">
-              <Zap className="text-yellow-500" /> TOP MOTEROS
-            </h2>
-            <span className="text-xs bg-white/10 px-3 py-1 rounded-full">TEMPORADA 1</span>
-          </div>
-          <div className="space-y-4">
-            {leaderboard.map((rider) => (
-              <div key={rider.rank} className="flex items-center justify-between p-4 bg-white/5 rounded-xl border border-white/5 hover:border-yellow-500/30 transition-all">
-                <div className="flex items-center gap-4">
-                  <span className="text-2xl font-bold italic text-white/30">#{rider.rank}</span>
-                  <div>
-                    <p className="font-bold">{rider.user}</p>
-                    <p className="text-xs text-gray-500">{rider.bike}</p>
-                  </div>
-                </div>
-                <div className="text-right">
-                  <p className="text-yellow-500 font-bold">{rider.points} pts</p>
-                </div>
-              </div>
-            ))}
+      
+      {/* Navbar Website */}
+      <nav className="navbar py-6">
+        <div className="container flex items-center justify-between">
+          <Link to="/" className="flex items-center gap-2" style={{textDecoration: 'none', color: 'var(--text)'}}>
+            <div className="flex items-center justify-center text-black" style={{width: '32px', height: '32px', background: 'var(--primary)', borderRadius: '8px', fontWeight: '900'}}>C</div>
+            <span style={{fontWeight: '900', letterSpacing: '-0.05em', fontSize: '1.25rem'}}>CILINDRAJE 507</span>
+          </Link>
+          <div className="nav-links">
+            <Link to="/" className={`nav-link ${location.pathname === '/' ? 'active' : ''}`}>Inicio</Link>
+            <Link to="/dashboard" className={`nav-link ${location.pathname === '/dashboard' ? 'active' : ''}`}>Dashboard</Link>
+            <Link to="/admin" className={`nav-link ${location.pathname === '/admin' ? 'active' : ''}`}>Admin</Link>
+            <Link to="/login" className="btn btn-primary" style={{padding: '0.5rem 1.5rem', fontSize: '0.875rem'}}>Login</Link>
           </div>
         </div>
-      </section>
+      </nav>
 
-      {/* Rodada Nacional CTA */}
-      <section className="container py-24 mb-20">
-        <div className="bg-gradient-to-r from-yellow-500/10 to-orange-500/10 rounded-3xl p-12 border border-yellow-500/20 relative overflow-hidden">
-          <div className="relative z-10">
-            <h2 className="text-4xl mb-6">¿Listo para la <br/><span className="text-transparent bg-clip-text bg-gradient-to-r from-yellow-500 to-orange-500">Rodada Nacional?</span></h2>
-            <p className="text-gray-400 mb-8 max-w-md">9 Provincias, 7 días, un solo objetivo. Demuestra que eres el motero más constante de Panamá.</p>
-            <div className="flex items-center gap-6 text-sm">
-              <div className="flex items-center gap-2"><ShieldCheck size={16} className="text-green-500"/> Verificado por GPS</div>
-              <div className="flex items-center gap-2"><ShieldCheck size={16} className="text-green-500"/> Premios en Efectivo</div>
-            </div>
-          </div>
-          <div className="absolute right-0 top-0 w-1/3 h-full opacity-10 flex items-center justify-center">
-            <Trophy size={300} />
-          </div>
-        </div>
-      </section>
+      <main style={{minHeight: '80vh'}}>
+        <AnimatePresence mode="wait">
+          <Routes location={location} key={location.pathname}>
+            <Route path="/" element={<motion.div initial={{ opacity: 0, x: -20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: 20 }}><LandingView /></motion.div>} />
+            <Route path="/login" element={<motion.div initial={{ opacity: 0, scale: 0.95 }} animate={{ opacity: 1, scale: 1 }} exit={{ opacity: 0, scale: 0.95 }}><LoginView /></motion.div>} />
+            <Route path="/dashboard" element={<motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -20 }}><DashboardView /></motion.div>} />
+            <Route path="/admin" element={<motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}><AdminView /></motion.div>} />
+          </Routes>
+        </AnimatePresence>
+      </main>
 
-      <footer className="container pb-10 text-center text-gray-600 text-xs uppercase tracking-widest">
-        &copy; 2026 Cilindraje 507 - Jarvis Millonario Ecosystem
+      <footer className="site-footer">
+        Cilindraje 507 &copy; 2026 | Built by Jarvisin OS
       </footer>
     </div>
   );
 }
-
-export default App;
