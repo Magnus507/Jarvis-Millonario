@@ -183,6 +183,33 @@ notas:
 
 ---
 
+## 🏍️ Ruta 507
+
+```yaml
+tipo: Ecosistema digital para moteros
+estado: Concepción / Ideación
+fase: Definición de Modelo de Negocio
+mercado: Panamá (Comunidad Motera)
+
+# ─── CONCEPTO ──────────────────────────────────────────────────
+objetivo: Seguridad, comunidad y logística de rutas
+funcionalidades_clave:
+  - Mapa de rutas en tiempo real (Road Status)
+  - Botón SOS Comunitario
+  - Marketplace de piezas y motos
+  - Directorio de Spots Biker-Friendly
+
+# ─── ESTADO ACTUAL ─────────────────────────────────────────────
+completado:
+  - Estructura de carpetas en Vault
+  - Documento de estrategia inicial
+pendiente:
+  - Definir Branding y Naming final
+  - Selección de stack móvil (React Native vs Flutter)
+```
+
+---
+
 ## 🤖 Jarvis Millonario (El Sistema Mismo)
 
 ```yaml
