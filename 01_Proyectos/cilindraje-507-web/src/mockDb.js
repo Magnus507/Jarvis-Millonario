@@ -47,11 +47,27 @@ export const stickers = [
   }
 ];
 
-export const currentUser = {
-  id: 'u1',
-  username: 'Rider_Alpha',
-  faction_id: 'f1',
-  total_points: 4250,
-  provinces_visited: 3,
-  scans: 12
-};
+export const users = [
+  {
+    id: 'u1',
+    email: 'rider@faccion.com',
+    password: '123',
+    username: 'Rider_Alpha',
+    role: 'rider',
+    faction_id: 'f1',
+    total_points: 4250,
+    provinces_visited: 3,
+    scans: 12
+  },
+  {
+    id: 'a1',
+    email: 'admin@jarvisin.com',
+    password: '123',
+    username: 'Overwatch_Admin',
+    role: 'admin',
+    faction_id: null,
+    total_points: 0,
+    provinces_visited: 9,
+    scans: 0
+  }
+];
