@@ -3,7 +3,8 @@
     "allow": [
       "Bash(python -m compileall . --exclude \".venv|data\" -q)",
       "Bash(python -m py_compile voice/listener.py voice/speaker.py tools/registry.py tools/runner.py agents/planner.py agents/executor.py agents/qa.py server/api.py server/ws.py)",
-      "Bash(python -m py_compile actions/computer_control.py actions/open_app.py actions/browser_control.py actions/youtube.py actions/whatsapp.py actions/vscode_control.py actions/file_control.py actions/screen.py actions/web_search.py actions/self_develop.py)"
+      "Bash(python -m py_compile actions/computer_control.py actions/open_app.py actions/browser_control.py actions/youtube.py actions/whatsapp.py actions/vscode_control.py actions/file_control.py actions/screen.py actions/web_search.py actions/self_develop.py)",
+      "Bash(npm install *)"
     ]
   }
 }
