@@ -110,6 +110,15 @@ Cada cancion debe poder resumirse por seccion antes de generarse:
 - Los recursos se alternan segun la letra, el ritmo y el objetivo emocional.
 - Consultar la lista maestra de recursos opcionales antes de decidir.
 
+## Regla rap y voz mixta
+
+- El rap, half-rap y spoken-sung se usan solo si aportan contraste real.
+- No hace falta rapear toda la cancion; puede aparecer solo en un verso, puente o cierre.
+- Si una seccion va rapeada, marcarlo dentro de la letra con una etiqueta clara como `[Verse 2 - Rap]`, `[Bridge - Half-Rap]` o `[Outro - Spoken]`.
+- Mantener el resto de la cancion cantable para que el contraste se sienta intencional.
+- Si el rap no mejora la historia o la energia, se deja fuera.
+- Si la mezcla rap/cantado ayuda a que Suno entienda la intencion, usarla con moderacion y en bloques cortos.
+
 ## Export final
 
 Cuando se vaya a pegar una cancion en Suno, copiar solo:

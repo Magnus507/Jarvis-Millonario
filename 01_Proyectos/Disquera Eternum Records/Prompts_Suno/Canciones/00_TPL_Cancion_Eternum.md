@@ -65,6 +65,13 @@ updated: 2026-07-15
 - Final chorus
 - Outro
 
+## Voz y entrega
+
+- **Tipo vocal principal:** Cantado / Rap / Half-rap / Spoken-sung
+- **Seccion vocal especial:** [Verse 2 - Rap], [Bridge - Half-Rap], [Outro - Spoken], etc.
+- **Objetivo de contraste:** 
+- **Notas de interpretacion:** 
+
 ## Letra para Suno
 
 [Pega aqui SOLO la letra final con etiquetas de seccion, sin notas internas largas.]
@@ -81,6 +88,7 @@ updated: 2026-07-15
 - **Cambios de energia por seccion:**
 - **Cues instrumentales clave:**
 - **Notas de produccion:**
+- **Bloques rap o voz mixta:** 
 - **Recursos que si se usan en esta cancion:**
 - **Recursos que se omiten:**
 - **Referencia de recursos opcionales:** [[Recursos_Opcionales_Suno]]
