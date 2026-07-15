@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - eternum_records
   - skills
@@ -61,16 +61,26 @@ Usar para creditos, splits y propiedad.
 1. Definir direccion sonora.
 2. Construir hook.
 3. Escribir letra.
-4. Diseñar produccion.
-5. Cerrar prompt de Suno.
+4. Diseñar produccion con energia por seccion.
+5. Cerrar prompt de Suno con cues y secciones.
 6. Crear visual.
 7. Registrar lanzamiento.
 8. Activar growth.
 9. Cerrar derechos.
 
-## Regla de uso
+## Estandar Suno
 
-- Si una cancion no tiene direccion sonora, no se escribe todavia.
-- Si el hook no funciona, se corrige antes de seguir.
+- Intro energy
+- Verse energy
+- Chorus energy
+- Bridge break
+- Outro decay
+- Instrumental cues
+
+## Regla
+
+- Un cue fuerte por cancion ya funciona si esta bien puesto.
+- El cambio de ritmo debe verse en la seccion, no escondido en la letra.
+- Si la base compite con la voz, vuelve a simplificar.
+- Si el hook no funciona, corrige antes de seguir.
 - Si el lanzamiento no esta claro, no se publica.
-

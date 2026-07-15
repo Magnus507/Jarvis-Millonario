@@ -25,10 +25,34 @@ updated: 2026-07-15
 
 ## Direccion sonora
 
-- **Lane:**
+- **Familia ritmica principal:**
+- **Color secundario:**
 - **BPM / feel:**
 - **Instrumentacion base:**
 - **Riesgos a evitar:**
+- **Seccion de cambio si aplica:**
+
+## Direccion por seccion
+
+- **Solo interno, no pegar en Suno:**
+- **Intro energy:**
+- **Verse energy:**
+- **Chorus energy:**
+- **Bridge break:**
+- **Outro decay:**
+- **Instrumental cues:**
+- **Recursos alternados:**
+
+## Recursos opcionales
+
+- **Intro hook:**
+- **Break:**
+- **Drop:**
+- **Tempo switch:**
+- **Ad-libs:**
+- **Instrument swap:**
+- **Minimal outro:**
+- **Cinematic bridge:**
 
 ## Estructura
 
@@ -41,23 +65,28 @@ updated: 2026-07-15
 - Final chorus
 - Outro
 
-## Letra
+## Letra para Suno
 
-[Escribe aqui la letra completa]
+[Pega aqui SOLO la letra final con etiquetas de seccion, sin notas internas largas.]
+
+> Para Suno solo se copia: `Letra`, `Style prompt` y `Excludes`.
 
 ## Prompt para Suno
 
 - **Style prompt:**
 - **Excludes:**
 
-## Produccion
+## Notas internas
 
-- **Capas clave:**
-- **Transiciones:**
-- **Puntos de impacto:**
+- **Cambios de energia por seccion:**
+- **Cues instrumentales clave:**
+- **Notas de produccion:**
+- **Recursos que si se usan en esta cancion:**
+- **Recursos que se omiten:**
+- **Referencia de recursos opcionales:** [[Recursos_Opcionales_Suno]]
 
 ## Cierre
 
-- **Notas finales:**
 - **Version:**
 - **Link a referencia o dossier:**
+- **Export final para Suno:** solo `Letra`, `Style prompt` y `Excludes`.
