@@ -1,0 +1,52 @@
+# Obsidian-specific ignores
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace
+.obsidian/.obsidian/
+.obsidian/core-plugins-migration.json
+.trash/
+
+# Secrets / local runtime config
+.env
+.env.*
+api_keys.json
+**/api_keys.json
+**/config/api_keys.json
+
+# Local packages / generated artifacts
+*.vsix
+dist/
+build/
+__pycache__/
+*.pyc
+
+# External project repositories managed separately
+01_Proyectos/PreRescue ID/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Local assistant databases
+*.sqlite3
+*.sqlite3-*
+
+
+# Python virtual environments
+.venv/
+**/.venv/
+
+
+# Test cache
+.pytest_cache/
+**/.pytest_cache/
+
+# Node/Frontend dependencies and massive folders
+node_modules/
+**/node_modules/
+.next/
+**/.next/
+.cache/
+**/.cache/
