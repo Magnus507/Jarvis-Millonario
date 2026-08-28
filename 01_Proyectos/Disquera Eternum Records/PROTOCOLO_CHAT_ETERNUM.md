@@ -5,7 +5,7 @@ tags:
   - suno
   - protocolo
 estado: activo
-version: 1.0
+version: 1.1
 updated: 2026-08-27
 ---
 
@@ -22,10 +22,18 @@ Este chat se considera un espacio dedicado a creación musical de Eternum Record
 1. `Agente_Suno_Experto.md`
 2. `Prompts_Suno/00_Dossier_Maestro_Suno.md`
 3. `Prompts_Suno/Recursos_Opcionales_Suno.md`
-4. `GUIA_DE_OPERACION_ETERNUM.md`
-5. cualquier archivo de canción o artista relevante dentro del proyecto
+4. `Skills_Especializadas/Skill_Eternum_Suno.md`
+5. `GUIA_DE_OPERACION_ETERNUM.md`
+6. `REFERENCIAS_Y_BENCHMARKS_SUNO_2026.md`
+7. cualquier archivo de canción o artista relevante dentro del proyecto
 
 Si el usuario modifica estas reglas en el futuro, actualizar GitHub para que el sistema persistente refleje el cambio.
+
+## Regla de Actualidad
+
+Suno cambia con rapidez. Las reglas artísticas estables pueden permanecer, pero características de producto, modelos, sliders, límites o flujos pueden cambiar. Cuando una decisión dependa de una función actual de Suno, comprobar información oficial reciente antes de convertirla en regla permanente.
+
+Las técnicas de comunidad deben clasificarse como hipótesis o buenas prácticas empíricas, no como comportamiento garantizado del modelo.
 
 ## Qué Significa "Hazme una Canción"
 
@@ -76,6 +84,21 @@ No añadir efectos para impresionar. Cada recurso debe mejorar al menos una de e
 - identidad
 - memorabilidad
 
+## Referencias de Artistas
+
+Si el usuario pide una referencia concreta, traducirla a características musicales útiles:
+
+- timbre vocal
+- tempo/pocket
+- tipo de hook
+- estructura
+- instrumentación
+- densidad
+- tratamiento de mezcla
+- energía
+
+Construir desde esos atributos una canción original en lugar de depender de una copia literal del artista.
+
 ## Formato por Defecto de una Canción Nueva
 
 ### A. Paquete Creativo
@@ -96,8 +119,9 @@ No añadir efectos para impresionar. Cada recurso debe mejorar al menos una de e
 Entregar un bloque claramente separado con:
 
 1. **Lyrics**
-2. **Style prompt**
-3. **Excludes**
+2. **Style prompt principal**
+3. **Style prompt alternativo**, solo cuando pueda aportar una prueba útil
+4. **Excludes**
 
 Este bloque debe estar listo para copiar y pegar.
 
@@ -120,6 +144,19 @@ Priorizar siempre:
 - efectos narrativos o ambientales opcionales
 
 Si el prompt está saturado, recortar Nivel 3 primero.
+
+## Regla A/B
+
+Cuando una canción sea importante o la primera generación no obedezca bien, no añadir instrucciones sin control. Probar una hipótesis a la vez.
+
+Orden recomendado:
+
+1. V1 limpia: columna vertebral + hook + estructura.
+2. V2: misma idea con producción y arquitectura vocal más explícitas.
+3. V3: añadir recursos de firma o sound design.
+4. V4: alternativa de formulación del Style prompt o una fusión secundaria compatible.
+
+Comparar resultados por hook, voz, claridad, crecimiento del coro y personalidad; no solo por cantidad de elementos obedecidos.
 
 ## Regla de Iteración
 
@@ -147,6 +184,17 @@ Primero diagnosticar qué capa falló:
 - exclude
 
 Luego modificar la parte mínima necesaria.
+
+## Regla de Escalamiento
+
+Si una generación tiene partes valiosas, preservar lo bueno antes de regenerar todo. Según el plan y funciones disponibles de Suno, considerar:
+
+- Song Editor para rehacer una sección
+- Cover para conservar una melodía y cambiar producción
+- Persona para mantener identidad vocal/estética
+- Audio Upload/Extend para anclar una idea melódica o rítmica propia
+- stems para corregir producción
+- Studio para edición más profunda cuando esté disponible
 
 ## Regla de Continuidad
 
