@@ -1,107 +1,250 @@
-﻿---
+---
 tags:
   - suno
   - reglas
   - eternum_records
   - prompts
-ultima_actualizacion: 2026-07-15
+ultima_actualizacion: 2026-08-27
+version: 3.0
 ---
 
 # Dossier Maestro Suno
 
-## Proposito
+## Propósito
 
-Este dossier define como convertir una idea de Eternum en una cancion lista para generar en Suno sin perder identidad ni repetir formulas.
+Este dossier define cómo convertir una idea de Eternum en una canción lista para generar en Suno con identidad, claridad, diseño vocal, arreglo, transiciones y sound design.
 
-## Principios base
+## Principios Base
 
-- Cada cancion necesita una identidad propia.
-- No repetir estructura, ritmo o textura sin una razon artistica clara.
-- La voz debe sentirse humana, respirable y creible.
-- El prompt debe describir funcion, energia y atmosfera, no solo genero.
-- El catalogo puede usar muchos ritmos, pero cada cancion debe tener una sola columna vertebral ritmica clara.
-- Los cambios de energia, breaks, drops, ad-libs y efectos son recursos opcionales, no obligatorios.
-- No todas las canciones deben usar los mismos recursos; se eligen segun letra, ritmo y objetivo.
+- Cada canción necesita una identidad propia.
+- No repetir estructura, ritmo, textura o tratamiento vocal sin una razón artística clara.
+- La voz debe sentirse humana, respirable y creíble.
+- El prompt debe describir función, energía y atmósfera, no solo género.
+- Cada canción debe tener una columna vertebral rítmica clara.
+- Los recursos de producción se eligen por función, no por cantidad.
+- Los efectos narrativos son herramientas, no decoración obligatoria.
+- Suno puede ignorar instrucciones demasiado específicas; por eso el prompt debe priorizar lo esencial.
 
-## Cadena de trabajo
+## Cadena de Trabajo
 
 Antes de cerrar un prompt, definir siempre:
 
 1. objetivo emocional
-2. direccion sonora
-3. hook o centro memorable
-4. energia del verso y del coro
-5. arreglo y capas
-6. elementos a evitar
-7. secciones donde debe entrar o salir la base instrumental
+2. concepto narrativo
+3. dirección sonora
+4. hook o centro memorable
+5. voz principal
+6. voces secundarias
+7. energía por sección
+8. arreglo y capas
+9. transiciones
+10. sound design
+11. elementos obligatorios
+12. elementos de identidad
+13. microdetalles opcionales
+14. elementos a evitar
 
-## Direccion por seccion
+## Sistema de Prioridades
 
-Cada cancion debe poder resumirse por seccion. Usa esta guia antes de cerrar el prompt:
+### Nivel 1 — Columna Vertebral
 
-- **Intro energy:** define el ambiente inicial y el gancho de entrada.
-- **Verse energy:** controla la tension narrativa y deja espacio a la voz.
-- **Chorus energy:** abre, eleva y vuelve facil de recordar la parte principal.
-- **Bridge break:** baja la base o cambia el color para crear contraste real.
-- **Outro decay:** deja caer la energia para cerrar con vacio, reflexion o impacto.
-- **Instrumental cues:** marca donde entra o sale requinto, bajo, percusion, pads, 808 o breaks.
+Debe aparecer en el Style prompt con máxima claridad:
 
-## Regla de alternancia
+- género/fusión
+- BPM aproximado o sensación de pulso
+- energía
+- instrumentación principal
+- actitud vocal
+- carácter del coro
 
-- Si la letra ya sostiene tension, no fuerces un break.
-- Si el coro ya abre suficiente, no agregues un cambio extra.
-- Si la cancion pide contraste, usa uno o dos recursos fuertes bien puestos.
-- Si el tema es mas directo o minimalista, simplifica la produccion y deja que la letra mande.
-- Si el tema es mas cinematografico o dramatico, usa mas transiciones, pero solo si aportan claridad.
+### Nivel 2 — Firma de Producción
 
-## Flujo recomendado
+Elegir normalmente 2–4:
 
-- `eternum-ar` decide el sonido.
-- `eternum-hooklab` construye el coro.
-- `eternum-lyrics` escribe versos y estructura.
-- `eternum-production` define el arreglo.
-- `eternum-suno` une todo en el paquete final.
+- armonías específicas
+- gang vocals
+- gospel choir
+- crowd chant
+- call and response
+- guitarra/requinto protagonista
+- bajo/808 particular
+- percusión especial
+- puente cinematográfico
+- break dramático
+- textura analógica
 
-## Biblioteca ritmica
+### Nivel 3 — Microdetalles Narrativos
 
-Eternum no se cierra en corridos. Cada cancion puede tomar una base distinta si sirve a la identidad del tema.
+Usar solo si aportan:
 
-### Familias permitidas
+- lluvia
+- motor
+- notificación genérica de teléfono
+- buzón de voz
+- puerta
+- llaves
+- llantas
+- radio estática
+- sirena
+- disparo lejano cinematográfico
+- cassette hiss
+- vinyl crackle
+- tape stop
+- eco puntual
+
+Si el prompt se vuelve confuso, recortar Nivel 3 antes que Nivel 1 o 2.
+
+## Dirección por Sección
+
+Cada canción debe poder resumirse así:
+
+- **Intro energy:** ambiente, gancho inicial y primera impresión.
+- **Verse energy:** tensión narrativa y espacio para la voz.
+- **Pre-Chorus lift:** cómo crece la expectativa.
+- **Chorus energy:** cómo se abre y por qué se siente más grande.
+- **Post-Chorus:** qué queda resonando después del hook.
+- **Verse 2 evolution:** qué cambia respecto al primer verso.
+- **Bridge break:** contraste real.
+- **Final Chorus expansion:** qué capas aparecen por última vez.
+- **Outro decay:** cómo cae la energía.
+- **Vocal layers:** qué voces entran o salen por sección.
+- **Instrumental cues:** entradas y salidas instrumentales.
+- **Sound-design cues:** efectos narrativos o ambientales.
+
+## Arquitectura Vocal
+
+Antes de generar, decidir cuáles aplican:
+
+- lead vocal íntima / abierta / agresiva / melódica
+- dry lead vocal
+- warm saturation
+- octave doubles
+- low harmonies
+- high harmonies
+- whispered doubles
+- gang vocals
+- crowd vocals
+- gospel choir
+- male response vocal
+- female response vocal
+- call-and-response chorus
+- distant background vocals
+- telephone-filtered intro vocal
+- radio-filtered vocal
+- spoken section
+- ad-libs
+- breath layers
+- delay throw on final word
+- echo response
+
+No escribir todas en cada prompt. Elegir las que verdaderamente cambien la canción.
+
+## Sound Design
+
+El sound design puede vivir en tres lugares:
+
+### A. Ambiente
+
+- rain ambience
+- distant thunder
+- highway ambience
+- nightclub room tone
+- stadium crowd
+- church room ambience
+- ocean waves
+- street ambience
+- wind
+- distant party noise
+
+### B. Narrativa
+
+- smartphone notification
+- voicemail beep
+- incoming call tone
+- car ignition
+- tire screech
+- door slam
+- keys
+- lighter flick
+- camera shutter
+- cash counter
+- radio static
+- walkie-talkie
+- distant siren
+- distant cinematic gunshot
+
+### C. Producción / Transición
+
+- snare roll
+- tom fill
+- reverse cymbal
+- riser
+- sub drop
+- cinematic hit
+- tape stop
+- sudden silence
+- heartbeat kick
+- reverse vocal texture
+- distorted impact
+
+## Regla de Marca
+
+No depender de marcas o sonidos propietarios concretos. Por ejemplo, preferir `short smartphone message notification` en lugar de pedir una notificación exacta de WhatsApp.
+
+## Regla de Densidad
+
+- Minimalista: 0–2 recursos fuertes.
+- Producción moderna: 2–4 recursos coordinados.
+- Cinemática/narrativa: puede usar más, distribuidos en el tiempo.
+
+La pregunta no es "¿cuántos efectos puedo poner?" sino "¿cuántos puede soportar la canción sin perder claridad?".
+
+## Biblioteca Rítmica
+
+Eternum no se cierra en un género. Familias principales permitidas:
 
 - corrido moderno
 - corrido tumbado
 - corrido experimental
+- regional urbano
 - trap latino
-- reggaeton oscuro
+- reggaetón oscuro
 - dembow
 - afrobeat latino
 - drill suave
 - jersey club
 - house latino
 - pop urbano elegante
-- fusion regional-urbana
+- R&B latino
+- bolero moderno
+- pop-rock latino
+- trap-soul
+- cinematic Latin pop
+- gospel urbano
+- fusión acústica-electrónica
 
-### Regla de uso
+Elegir una familia principal y, como máximo, una textura secundaria dominante.
 
-- Elegir una familia principal.
-- Elegir, como mucho, una segunda textura de apoyo.
-- No mezclar tres o cuatro ritmos a la vez si el hook pierde claridad.
-- Si la base cambia de energia, marcarlo como `[Instrumental Break]`, `[Bridge]` o `[Outro]`.
-- Si el tema tiene cambios de energia, anotarlos en la direccion por seccion, no escondidos en la letra.
+## Cómo Escribir un Buen Style Prompt
 
-## Buen prompt
+Un buen prompt combina, en orden aproximado:
 
-Un buen prompt para Suno combina:
+1. género/fusión
+2. pulso y tempo
+3. atmósfera
+4. instrumentación principal
+5. diseño de batería/bajo
+6. actitud de voz principal
+7. comportamiento del coro
+8. 2–4 rasgos de identidad
+9. dinámica por secciones
+10. textura de mezcla
 
-- genero o fusion principal
-- pulso ritmico principal
-- atmosfera
-- energia
-- instrumentacion principal
-- actitud vocal
-- exclusiones claras
+Ejemplo de estructura:
 
-## Excludes utiles
+`Dark cinematic regional-trap at a slow-mid tempo, intimate raspy male lead, sparse nylon guitar and sub bass in verses, restrained percussion building into an explosive chorus, low male harmonies and gang-vocal responses, distant gospel choir only in the final chorus, dramatic tom fills before transitions, brief telephone-filtered spoken intro, wide but controlled mix, emotional and nocturnal.`
+
+## Excludes Útiles
 
 - `generic pop`
 - `overprocessed autotune`
@@ -111,30 +254,65 @@ Un buen prompt para Suno combina:
 - `rhythm switches every bar`
 - `vocal clutter`
 - `instrumental fighting vocals`
+- `constant background choir`
+- `random sound effects`
+- `cartoonish effects`
+- `muddy low end`
+- `overcompressed vocals`
 
-## Regla final
+## Cues Dentro de Lyrics
 
-Si el tema suena demasiado parecido a otro, se vuelve a `eternum-ar` antes de producirlo.
-Si la letra y la base se pelean, se simplifica el arreglo antes de volver a escribir.
-Si un cue no aporta claridad, se elimina.
-Si un recurso no cambia la experiencia de la cancion, se quita.
+Usar etiquetas simples y funcionales cuando ayuden a Suno:
 
-## Export final a Suno
+- `[Intro - filtered spoken vocal]`
+- `[Verse 1 - intimate lead, sparse backing]`
+- `[Pre-Chorus - rising harmonies]`
+- `[Chorus - gang vocal responses]`
+- `[Instrumental Break - tom fill, sub drop]`
+- `[Bridge - stripped piano, distant choir]`
+- `[Final Chorus - full harmonies, crowd lift]`
+- `[Outro - whispered doubles, long delay]`
 
-Para pegar en Suno, usa solo estos tres bloques:
+No convertir la letra en una hoja técnica. Las etiquetas deben ser pocas y legibles.
 
-1. Letra
-2. Style prompt
-3. Excludes
+## Diagnóstico Después de Generar
 
-Todo lo demas es guia interna para construir mejor el tema.
+Al escuchar una generación, revisar:
 
-## Formato de salida recomendado
+- ¿El hook se recuerda?
+- ¿La voz principal se entiende?
+- ¿El coro crece realmente?
+- ¿Las voces secundarias aportan o ensucian?
+- ¿Suno obedeció los cues esenciales?
+- ¿Algún efecto suena caricaturesco?
+- ¿La canción tiene demasiadas ideas?
+- ¿La instrumentación compite con la letra?
+- ¿Hay un momento reconocible de 5–15 segundos útil para contenido corto?
 
-1. Concepto
-2. Ritmo / feel
-3. Letra
-4. Style prompt
-5. Excludes
-6. Notas de produccion
-7. Direccion por seccion
+Corregir primero el problema dominante; no reescribir todo por reflejo.
+
+## Export Final a Suno
+
+Para pegar en Suno, entregar tres bloques limpios:
+
+1. `Lyrics`
+2. `Style prompt`
+3. `Excludes`
+
+Todo lo demás es guía interna.
+
+## Formato de Salida Interna
+
+1. Título
+2. Concepto
+3. Ritmo / feel
+4. Hook
+5. Letra
+6. Arquitectura vocal
+7. Arreglo
+8. Sound design
+9. Transiciones
+10. Style prompt
+11. Excludes
+12. Dirección por sección
+13. Bloque final listo para Suno
