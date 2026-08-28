@@ -5,59 +5,276 @@ tags:
   - guia
   - eternum_records
 estado: activo
-updated: 2026-07-15
+updated: 2026-08-27
+version: 3.0
 ---
 
 # Recursos Opcionales Suno
 
-## Proposito
+## Propósito
 
-Lista maestra de recursos que se usan solo cuando la cancion los pide. No son obligatorios.
+Biblioteca maestra de recursos creativos para Eternum Records. No es una checklist obligatoria: sirve para que el productor elija recursos con intención según la historia, emoción, ritmo y energía de cada canción.
 
-## Reglas
+## Regla Principal
 
-- No todos los temas usan todos los recursos.
-- Elegir recursos segun letra, ritmo y objetivo emocional.
-- Si la cancion funciona limpia, dejarla limpia.
-- Si pide contraste, usar 1 o 2 recursos fuertes, no una lista completa.
+- No usar recursos por costumbre.
+- No repetir los mismos efectos en temas consecutivos sin razón.
+- Cada elemento debe tener una función narrativa, emocional o dinámica.
+- Si la canción ya funciona sin el recurso, no forzarlo.
+- Si un detalle compromete la claridad del prompt, dejarlo como microdetalle opcional.
 
-## Recursos disponibles
+## 1. Diseño Vocal Principal
 
-### 1. Intro hook
-Gancho de entrada para abrir fuerte desde el primer bloque.
+- intimate dry lead
+- raspy lead
+- breathy lead
+- warm saturated vocal
+- airy vocal
+- aggressive close-mic vocal
+- melodic rap delivery
+- spoken-sung vocal
+- whispered lead section
+- telephone-filtered vocal
+- radio-filtered vocal
+- megaphone vocal
+- distant vocal
 
-### 2. Break
-Pausa o vacio intencional para cortar la densidad y refrescar la cancion.
+## 2. Dobles y Armonías
 
-### 3. Drop
-Bajada o golpe de energia para entrar con mas impacto.
+- tight vocal doubles
+- octave doubles
+- low male harmony
+- high male harmony
+- low female harmony
+- high female harmony
+- whispered doubles
+- breath doubles
+- stereo doubles
+- delayed response doubles
+- harmony stack
 
-### 4. Tempo switch
-Cambio de sensacion de pulso o energia, solo si esta bien justificado.
+## 3. Voces Colectivas
 
-### 5. Ad-libs
-Remates vocales, respiraciones o interjecciones breves. Ponerlos en una seccion concreta.
+- gang vocals
+- crowd chants
+- stadium chant
+- gospel choir
+- church choir
+- small male choir
+- small female choir
+- mixed choir
+- call and response
+- crowd response on final words
+- distant group vocals
+- communal singalong
 
-### 6. Instrument swap
-Cambio de instrumento protagonista entre secciones para variar color.
+## 4. Ad-libs y Respuestas
 
-### 7. Minimal outro
-Cierre reducido, vacio o emocional para dejar la ultima impresion.
+- short ad-libs
+- whispered ad-libs
+- shouted ad-libs
+- spoken answers
+- female response vocal
+- male response vocal
+- echo response
+- delayed final-word response
+- breath accents
+- one-word crowd responses
 
-### 8. Cinematic bridge
-Puente mas atmosferico, mas grande o mas dramatico que el resto del tema.
+## 5. Percusión y Movimiento
 
-## Criterio de uso
+- snare roll
+- tom fill
+- military-style drum roll
+- tribal toms
+- hand claps
+- stomps
+- body percussion
+- rim clicks
+- brushed percussion
+- halftime drop
+- percussion mute
+- kick-only build
+- heartbeat-style kick
 
-- Si la letra ya sostiene la tension, no agregar recursos de mas.
-- Si el coro ya abre suficiente, no forzar un drop adicional.
-- Si el tema es directo, usar recursos mínimos.
-- Si el tema es cinematografico, usar contrastes mas claros.
+## 6. Transiciones
 
-## Como elegir
+- reverse cymbal
+- riser
+- sub drop
+- cinematic impact
+- distorted impact
+- tape stop
+- sudden silence
+- filtered sweep
+- reverse vocal texture
+- bass cut before chorus
+- drum fill into chorus
+- one-beat blackout
+- reverb swell
+- stereo widening at chorus
 
-1. Definir la familia ritmica principal.
-2. Marcar el arco emocional.
-3. Elegir el recurso que realmente mejora el recorrido.
-4. Quitar cualquier recurso que no cambie la experiencia de escucha.
+## 7. Ambientes
 
+- rain ambience
+- distant thunder
+- storm ambience
+- wind
+- highway ambience
+- street ambience
+- nightclub room tone
+- stadium crowd
+- church room ambience
+- ocean waves
+- beach night ambience
+- empty room tone
+- distant party noise
+- train station ambience
+- airport ambience
+- city-at-night ambience
+- forest ambience
+
+## 8. Comunicación y Tecnología
+
+- short smartphone message notification
+- incoming call tone
+- voicemail beep
+- voice-note texture
+- radio static
+- walkie-talkie crackle
+- old answering machine texture
+- intercom voice
+- digital glitch
+- modem-like texture
+- camera shutter
+- typing sounds
+
+## 9. Automóviles y Movimiento
+
+- car ignition
+- engine rev
+- distant engine
+- tire screech
+- hard brake
+- door slam
+- car door close
+- seatbelt click
+- passing car
+- motorcycle rev
+- train horn
+- airplane cabin texture
+
+## 10. Objetos y Gestos Narrativos
+
+- keys jingling
+- lighter flick
+- match strike
+- glass clink
+- coins
+- cash counter
+- ticking clock
+- watch tick
+- cassette click
+- vinyl needle drop
+- page turn
+- pen click
+- footsteps
+- heels on floor
+- lock click
+- zipper
+
+## 11. Texturas Analógicas
+
+- vinyl crackle
+- cassette hiss
+- tape wobble
+- old-radio bandwidth
+- wow and flutter
+- lo-fi degradation
+- distorted speaker
+- mono intro widening to stereo
+- tape saturation
+- room reverb texture
+
+## 12. Recursos Cinematográficos
+
+- distant siren
+- distant cinematic gunshot
+- alarm
+- low cinematic boom
+- suspense drone
+- tension riser
+- reverse piano hit
+- orchestral swell
+- choir swell
+- dramatic pause
+- impact followed by silence
+
+## 13. Instrument Swaps
+
+- nylon guitar to electric guitar
+- piano to synth pad
+- acoustic bass to sub bass
+- dry drums to wide drums
+- requinto to ambient guitar
+- strings entering only in final chorus
+- brass stabs in post-chorus
+- organ entering in bridge
+- choir replacing pad in final chorus
+
+## 14. Dinámica y Espacio
+
+- sparse verse
+- stripped pre-chorus
+- explosive chorus
+- narrow verse / wide chorus
+- mono intro / stereo release
+- low-pass filtered intro
+- bassless bridge
+- drumless bridge
+- final chorus lift
+- minimal outro
+- abrupt ending
+- long reverb tail
+
+## 15. Recursos de Hook
+
+- repeated final phrase
+- call-and-response hook
+- crowd-repeat hook
+- one-word post-chorus
+- melodic vocal chop
+- whispered pre-hook
+- stop-time before hook
+- instrumental motif answering the vocal
+- choir repeating only the last line
+
+## Regla de Densidad
+
+### Minimalista
+0–2 recursos fuertes.
+
+### Moderna Estándar
+2–4 recursos coordinados.
+
+### Cinemática / Narrativa
+Puede usar más recursos si cada uno vive en una sección concreta y no compite con la voz.
+
+## Regla de Marca y Realismo
+
+Preferir descripciones genéricas y funcionales frente a sonidos exactos de marcas comerciales. Ejemplo: `short smartphone message notification` en vez de exigir una notificación concreta de una app.
+
+## Cómo Elegir
+
+1. Definir la familia rítmica.
+2. Definir el arco emocional.
+3. Diseñar la voz principal.
+4. Elegir la arquitectura de voces secundarias.
+5. Elegir un recurso de transición principal.
+6. Elegir uno o más detalles narrativos si aportan.
+7. Revisar si el arreglo sigue siendo legible.
+8. Eliminar cualquier elemento que no cambie la experiencia.
+
+## Regla Final
+
+La biblioteca existe para ampliar posibilidades, no para convertir cada canción en una demostración de efectos. La mejor producción puede ser gigantesca o casi vacía; lo importante es que se sienta intencional.
