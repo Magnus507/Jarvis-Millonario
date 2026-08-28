@@ -1,138 +1,205 @@
-﻿---
+---
 tags:
   - guia
   - operativo
   - manual
   - eternum_records
-version: 2.1
-updated: 2026-07-15
+version: 3.0
+updated: 2026-08-27
 ---
 
 # Guia de Operacion Eternum
 
 > [!IMPORTANT]
-> Este manual define como trabajamos el sistema Eternum de forma ordenada: idea, sonido, letra, produccion, lanzamiento y promocion.
+> Este manual define cómo trabajamos Eternum: concepto, hook, letra, arquitectura vocal, producción, sound design, prompt, generación, revisión y lanzamiento.
 
-## Estructura del ecosistema
+## Estructura del Ecosistema
 
-1. `Concepto_Eternum.md`: vision y direccion del proyecto.
+1. `Concepto_Eternum.md`: visión y dirección del proyecto.
 2. `Incubadora_de_Ideas/00_Banco_de_Conceptos.md`: semillas de canciones o proyectos.
-3. `Prompts_Suno/00_Dossier_Maestro_Suno.md`: reglas de composicion y prompt.
-4. `Prompts_Suno/Recursos_Opcionales_Suno.md`: recursos opcionales para alternar segun la cancion.
-5. `Agente_Suno_Experto.md`: orquestacion de la IA musical.
-6. `Skills_Especializadas/`: skills locales del sistema antiguo.
-7. Skills globales `eternum-*`: sistema nuevo por capas.
-8. `Prompts_Suno/Canciones/`: historial de letras y prompts finales.
-9. `Catalogo/` y `Artistas/`: registro de lanzamientos y perfiles.
+3. `Prompts_Suno/00_Dossier_Maestro_Suno.md`: reglas maestras de composición y prompt.
+4. `Prompts_Suno/Recursos_Opcionales_Suno.md`: biblioteca amplia de recursos vocales, transiciones, ambientes y sound design.
+5. `Agente_Suno_Experto.md`: rol del productor creativo principal.
+6. `PROTOCOLO_CHAT_ETERNUM.md`: reglas para trabajar canciones desde el chat dedicado.
+7. `Skills_Especializadas/`: skills locales del sistema antiguo.
+8. Skills globales `eternum-*`: sistema por capas.
+9. `Prompts_Suno/Canciones/`: historial de letras y prompts finales.
+10. `Catalogo/` y `Artistas/`: registro de lanzamientos y perfiles.
 
-## Flujo de trabajo
+## Flujo Maestro de Trabajo
 
-### 1. Definir la direccion
+### 1. Definir la Dirección
 
 - Usar `eternum-ar`.
-- Decidir genero, energia, BPM aproximado y sensacion general.
-- Si la direccion no esta clara, no se escribe todavia.
+- Decidir género o fusión, energía, BPM aproximado, ambiente y referencia emocional.
+- Si la dirección no está clara, no escribir todavía.
 
-### 2. Construir la idea
+### 2. Construir la Idea
 
-- Revisar el banco de conceptos.
+- Revisar el banco de conceptos cuando aplique.
 - Definir una sola promesa emocional.
-- Marcar si es single, EP o album.
+- Identificar la escena o mundo narrativo de la canción.
 
-### 3. Escribir la cancion
+### 3. Construir el Hook
 
-- Usar `eternum-hooklab` para el coro.
-- Usar `eternum-lyrics` para versos y estructura.
-- Ajustar la respiracion y la claridad de cada linea.
+- Usar `eternum-hooklab`.
+- El coro debe poder recordarse fuera del contexto completo de la canción.
+- Priorizar frase central, ritmo vocal y repetibilidad.
 
-### 4. Producir
+### 4. Escribir la Letra
+
+- Usar `eternum-lyrics`.
+- Mantener métrica cantable.
+- Dejar espacio para respiraciones, ad-libs y respuestas cuando la producción lo necesite.
+- No meter instrucciones técnicas dentro de líneas cantadas.
+
+### 5. Diseñar la Arquitectura Vocal
+
+Antes del arreglo final, decidir:
+
+- carácter de voz principal
+- dobles
+- armonías
+- ad-libs
+- call and response
+- gang vocals
+- crowd vocals
+- gospel/church choir
+- voces lejanas
+- tratamientos especiales por sección
+
+### 6. Diseñar la Producción
 
 - Usar `eternum-production`.
-- Definir secciones, capas, transiciones y energia por bloque.
-- Evitar arreglos saturados.
-- Elegir recursos solo cuando la cancion los necesite.
-- Revisar `Prompts_Suno/Recursos_Opcionales_Suno.md` para escoger solo lo que aporte.
+- Definir secciones, capas, instrumentación, energía y contraste.
+- Asegurar una columna vertebral rítmica clara.
+- El coro debe crecer de forma intencional.
 
-### 5. Cerrar prompt
+### 7. Diseñar Sound Design y Transiciones
+
+Consultar `Prompts_Suno/Recursos_Opcionales_Suno.md`.
+
+Elegir solo recursos que mejoren la historia o la dinámica:
+
+- ambientes
+- objetos narrativos
+- sonidos de tecnología
+- automóviles y movimiento
+- impactos
+- silencios
+- texturas analógicas
+- recursos cinematográficos
+
+Los ejemplos del usuario son inspiración, no una lista obligatoria.
+
+### 8. Clasificar Prioridades
+
+Separar el prompt en:
+
+- Nivel 1: columna vertebral obligatoria
+- Nivel 2: firma de producción
+- Nivel 3: microdetalles opcionales
+
+Si el prompt se satura, eliminar primero Nivel 3.
+
+### 9. Cerrar el Prompt
 
 - Usar `eternum-suno`.
-- Combinar concepto, letra, feel, style prompt, excludes y direccion por seccion.
-- Guardar la version final en `Prompts_Suno/Canciones/`.
-- Copiar a Suno solo `Letra`, `Style prompt` y `Excludes`.
+- Combinar concepto, letra, feel, arquitectura vocal, producción y sound design.
+- Guardar la versión final en `Prompts_Suno/Canciones/` cuando corresponda.
 
-### 6. Visual y lanzamiento
+### 10. Exportar a Suno
 
-- Usar `eternum-visuals` para portada y estetica.
-- Usar `eternum-release` para registrar el lanzamiento.
-- Usar `eternum-growth` para promocion.
-- Usar `eternum-rights` para creditos y splits.
+Entregar tres bloques limpios:
 
-## Regla de operacion
-
-- No repetir la misma base sonora si no hay una razon artistica clara.
-- No publicar una cancion sin hook solido.
-- No cerrar un lanzamiento sin metadata basica.
-- No asumir creditos ni propiedad.
-- No confundir volumen con impacto.
-- No escribir la letra como si fuera instrucciones de produccion.
-- Si hay cambio de energia, debe quedar en la guia por seccion o en el prompt, no escondido en un verso.
-
-## Orden recomendado para una cancion nueva
-
-1. `eternum-ar`
-2. `eternum-hooklab`
-3. `eternum-lyrics`
-4. `eternum-production`
-5. `eternum-suno`
-6. `eternum-visuals`
-7. `eternum-release`
-8. `eternum-growth`
-9. `eternum-rights`
-
-## Estandar Suno
-
-Cada cancion debe poder resumirse por seccion antes de generarse:
-
-- Intro energy
-- Verse energy
-- Chorus energy
-- Bridge break
-- Outro decay
-- Instrumental cues
-
-## Regla de cues
-
-- Usar 1 o 2 cues fuertes por cancion, no diez.
-- Si hay ad-libs o efectos, ponerlos en una seccion especifica.
-- Si hay un cambio claro de ritmo, marcarlo como `[Bridge]`, `[Break]` o `[Drop]`.
-- No esconder cambios de base dentro de la letra.
-- Si la cancion no pide cue, no se agrega.
-- Los recursos se alternan segun la letra, el ritmo y el objetivo emocional.
-- Consultar la lista maestra de recursos opcionales antes de decidir.
-
-## Regla rap y voz mixta
-
-- El rap, half-rap y spoken-sung se usan solo si aportan contraste real.
-- No hace falta rapear toda la cancion; puede aparecer solo en un verso, puente o cierre.
-- Si una seccion va rapeada, marcarlo dentro de la letra con una etiqueta clara como `[Verse 2 - Rap]`, `[Bridge - Half-Rap]` o `[Outro - Spoken]`.
-- Mantener el resto de la cancion cantable para que el contraste se sienta intencional.
-- Si el rap no mejora la historia o la energia, se deja fuera.
-- Si la mezcla rap/cantado ayuda a que Suno entienda la intencion, usarla con moderacion y en bloques cortos.
-
-## Export final
-
-Cuando se vaya a pegar una cancion en Suno, copiar solo:
-
-1. Letra
+1. Lyrics
 2. Style prompt
 3. Excludes
 
-La direccion por seccion y las notas internas quedan para trabajo interno del proyecto.
-Si la cancion es minimalista, el export final debe ser aun mas limpio.
+Las notas internas no se mezclan con el bloque de copiado.
+
+### 11. Revisar la Generación
+
+Después de escuchar una versión, diagnosticar:
+
+- hook
+- interpretación vocal
+- claridad de letra
+- tamaño real del coro
+- comportamiento de voces secundarias
+- obediencia de cues
+- calidad de transiciones
+- utilidad del sound design
+- exceso de elementos
+- momento más memorable
+
+Corregir el problema dominante antes de volver a generar.
+
+### 12. Visual y Lanzamiento
+
+- `eternum-visuals`: portada y estética.
+- `eternum-release`: registro del lanzamiento.
+- `eternum-growth`: promoción.
+- `eternum-rights`: créditos y splits.
+
+## Regla de Densidad
+
+La producción no tiene un máximo fijo de efectos.
+
+- Minimalista: 0–2 recursos fuertes.
+- Moderna estándar: 2–4 recursos coordinados.
+- Cinemática/narrativa: más recursos permitidos si están distribuidos por secciones y mantienen claridad.
+
+## Reglas Fundamentales
+
+- No repetir la misma base sonora sin razón artística.
+- No publicar una canción sin hook sólido.
+- No confundir complejidad con calidad.
+- No usar efectos solo porque existen.
+- No llenar el prompt de marcas o sonidos propietarios concretos.
+- Si Suno no puede obedecer un detalle literal, reformularlo funcionalmente.
+- Si el arreglo compite con la voz, simplificar.
+- Si un silencio tiene más impacto que otro efecto, usar silencio.
+- Las voces secundarias deben tener función, no rellenar espacio.
+
+## Dirección por Sección Obligatoria
+
+Toda canción debe poder resumirse con:
+
+- Intro energy
+- Verse energy
+- Pre-Chorus lift
+- Chorus energy
+- Post-Chorus behavior
+- Verse 2 evolution
+- Bridge break
+- Final Chorus expansion
+- Outro decay
+- Vocal layers by section
+- Instrumental cues
+- Sound-design cues
+
+## Formato de Entrega de una Canción
+
+1. Título provisional
+2. Concepto
+3. Dirección sonora
+4. Hook/coro
+5. Letra completa
+6. Arquitectura vocal
+7. Arreglo por secciones
+8. Sound design
+9. Transiciones
+10. Style prompt
+11. Excludes
+12. Notas de producción
+13. Dirección por sección
+14. Bloque final listo para Suno
 
 ## Mantenimiento
 
-- Si cambia el sistema, primero actualizamos esta guia.
-- Si un archivo ya no describe el flujo real, se simplifica o reemplaza.
-- Si aparece una nueva skill util, se agrega al mapa y al manual.
-- Si aparece un recurso nuevo, se añade a `Recursos_Opcionales_Suno.md`.
+- Si cambia el sistema, actualizar primero esta guía.
+- Si un archivo queda obsoleto, simplificarlo o reemplazarlo.
+- Si aparece un recurso útil, agregarlo a la biblioteca.
+- Si un recurso falla repetidamente en Suno, documentar una formulación más robusta.
+- El sistema debe evolucionar según resultados reales, no quedarse congelado en una receta.
