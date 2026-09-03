@@ -4,8 +4,8 @@ tags:
   - reglas
   - eternum_records
   - prompts
-ultima_actualizacion: 2026-08-27
-version: 3.0
+ultima_actualizacion: 2026-09-02
+version: 3.1
 ---
 
 # Dossier Maestro Suno
@@ -13,6 +13,21 @@ version: 3.0
 ## Propósito
 
 Este dossier define cómo convertir una idea de Eternum en una canción lista para generar en Suno con identidad, claridad, diseño vocal, arreglo, transiciones y sound design.
+
+## Límites Operativos Confirmados en Suno Avanzado
+
+Para el flujo del usuario en Suno Avanzado:
+
+- **Lyrics / Letra:** máximo visible de **5,000 caracteres**.
+- **Style / Estilo:** máximo visible de **1,000 caracteres**.
+- Los prompts de Eternum deben diseñarse por debajo de esos límites, dejando margen de seguridad.
+
+### Márgenes Recomendados
+
+- **Letra objetivo:** idealmente entre **3,500 y 4,600 caracteres**; evitar acercarse innecesariamente a 5,000.
+- **Style prompt objetivo:** idealmente entre **700 y 950 caracteres**; nunca entregar un Style que exceda 1,000.
+- Si una historia es demasiado larga, condensar narrativa, repetir menos líneas y reservar espacio para metatags útiles.
+- Si el Style supera el límite, conservar primero género/fusión, pulso, voz, instrumentación, comportamiento del coro y 2–4 rasgos de identidad; recortar microdetalles antes que elementos estructurales.
 
 ## Principios Base
 
@@ -92,7 +107,7 @@ Usar solo si aportan:
 - tape stop
 - eco puntual
 
-Si el prompt se vuelve confuso, recortar Nivel 3 antes que Nivel 1 o 2.
+Si el prompt se vuelve confuso o supera 1,000 caracteres, recortar Nivel 3 antes que Nivel 1 o 2.
 
 ## Dirección por Sección
 
@@ -240,9 +255,11 @@ Un buen prompt combina, en orden aproximado:
 9. dinámica por secciones
 10. textura de mezcla
 
+Debe caber dentro del límite de 1,000 caracteres. Si hace falta condensar, usar frases densas y eliminar redundancias.
+
 Ejemplo de estructura:
 
-`Dark cinematic regional-trap at a slow-mid tempo, intimate raspy male lead, sparse nylon guitar and sub bass in verses, restrained percussion building into an explosive chorus, low male harmonies and gang-vocal responses, distant gospel choir only in the final chorus, dramatic tom fills before transitions, brief telephone-filtered spoken intro, wide but controlled mix, emotional and nocturnal.`
+`Dark cinematic regional-trap, slow-mid tempo, intimate raspy male lead, sparse nylon guitar and sub bass in verses, restrained percussion into explosive choruses, low male harmonies and gang-vocal responses, distant gospel choir only in final chorus, dramatic tom fills, brief telephone-filtered intro, wide controlled mix, emotional and nocturnal.`
 
 ## Excludes Útiles
 
@@ -265,7 +282,7 @@ Ejemplo de estructura:
 Usar etiquetas simples y funcionales cuando ayuden a Suno:
 
 - `[Intro - filtered spoken vocal]`
-- `[Verse 1 - intimate lead, sparse backing]`
+- `[Verse 1 - intimate lead]`
 - `[Pre-Chorus - rising harmonies]`
 - `[Chorus - gang vocal responses]`
 - `[Instrumental Break - tom fill, sub drop]`
@@ -273,7 +290,7 @@ Usar etiquetas simples y funcionales cuando ayuden a Suno:
 - `[Final Chorus - full harmonies, crowd lift]`
 - `[Outro - whispered doubles, long delay]`
 
-No convertir la letra en una hoja técnica. Las etiquetas deben ser pocas y legibles.
+No convertir la letra en una hoja técnica. Las etiquetas también consumen caracteres del límite de 5,000, así que deben ser pocas y útiles.
 
 ## Diagnóstico Después de Generar
 
@@ -295,9 +312,11 @@ Corregir primero el problema dominante; no reescribir todo por reflejo.
 
 Para pegar en Suno, entregar tres bloques limpios:
 
-1. `Lyrics`
-2. `Style prompt`
-3. `Excludes`
+1. `Lyrics` — máximo 5,000 caracteres.
+2. `Style prompt` — máximo 1,000 caracteres.
+3. `Excludes` — mantenerlo conciso y funcional.
+
+Antes de entregar una canción, verificar manualmente que Lyrics y Style estén por debajo de sus límites.
 
 Todo lo demás es guía interna.
 
